@@ -1,0 +1,60 @@
+{
+  "name": "Animate Plants",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><h2><span>Animate Plants</span></h2><p><b>School:</b>  Transmutation</p><p><b>Casting:</b>  Incantation</p><p> This spell allows you to animate and control up to one plant per caster rank, although you may choose to animate fewer plants in order to make them more powerful. See the 'Animated Minions' section for details.\n Alternatively, you can imbue all plants within range with limited mobility. Treat this like the entangle spell, except the duration is 3 hours per caster rank.\n</p></div>",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Shaman and Plant Sphere)",
+    "duration": "3 rounds per caster rank",
+    "notes": "",
+    "swid": "animate-plants",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "P6wFwFWUzhpgxosX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!P6wFwFWUzhpgxosX"
+}

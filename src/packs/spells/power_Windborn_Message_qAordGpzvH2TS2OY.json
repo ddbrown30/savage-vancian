@@ -1,0 +1,60 @@
+{
+  "name": "Windborn Message",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell sends a short message or sound to a designated location within range, where it can be heard by everyone within a Small Burst Template. The Windborn Message can travel between 1 and 6 miles per hour, as specified by the caster, as long as it reaches its destination before the duration expires.\n Upon reaching its destination, the Windborn Message delivers its message (of up to 25 words) or sound in the space of one round, regardless of whether or not anyone is present to hear it, after which the spell ends.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts miles",
+    "rank": "Novice (Mage and Spellsinger)",
+    "duration": "3 hours per caster rank",
+    "notes": "",
+    "swid": "windborn-message",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "qAordGpzvH2TS2OY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!qAordGpzvH2TS2OY"
+}

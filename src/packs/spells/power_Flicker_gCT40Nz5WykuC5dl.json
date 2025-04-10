@@ -1,0 +1,60 @@
+{
+  "name": "Flicker",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell causes you to rapidly flicker back and forth between the material and ethereal planes. From the perspective of onlookers, you appear to randomly wink in and out of existence.\n Your Pace is reduced by 1, and your running die by 1 die step, however you may attempt to pass through solid objects: make an Agility roll with a penalty equal to the distance you wish to move (e.g., an Agility roll at -2 if you wish to step through a 2\" wall), on a failure you become Shaken and are shunted off to the nearest open space.\n Attacks against you suffer a -2 penalty to hit. Only half of this penalty is an Obscurement penalty, the other half is ignored if the attack can harm creatures on the ethereal plane (such as spells with a Force trapping). You also suffer -2 damage from area effect attacks, unless they can harm creatures on the ethereal plane.\n Your own attacks can now target creatures on both the material and ethereal planes, however you suffer a -1 penalty to your attacks, as you sometimes switch planes just as you're about to strike. This penalty doesn't apply if your attacks can harm creatures on both planes.\n If you fall while this spell is active, resolve the damage as if you'd only fallen half of the actual distance, as your velocity only increases while you're on the material plane.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Mage, Nightblade and Spellsinger)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "flicker",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Obscurement",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "gCT40Nz5WykuC5dl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!gCT40Nz5WykuC5dl"
+}

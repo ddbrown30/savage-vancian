@@ -1,0 +1,1 @@
+This module contains the spells, edges, and some of the minions from [Zadmar's Savage Vancian Magic](https://savage-stuff.blogspot.com/2015/07/savage-vancian-magic.html). The content of the module is a direct copy of what's in the PDF and has not been converted to SWADE.

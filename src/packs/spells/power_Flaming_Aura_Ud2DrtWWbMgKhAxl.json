@@ -1,0 +1,60 @@
+{
+  "name": "Flaming Aura",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell wreathes you in an aura of wispy flames, providing illumination within an area the size of a Small Burst Template. Any adjacent creatures who attack you in close combat suffer an automatic 2d6 damage.\n There are two variants of Flaming Aura, and you must choose which you are using when you cast the spell. The hot version inflicts fire damage and provides you with Energy Resistance against cold damage, while the cold version inflicts cold damage and provides you with Energy Resistance against fire damage. The Energy Resistance reduces damage of the appropriate type by 2 points, but does not stack with other sources of Energy Resistance.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Mage and Sun Sphere) or Veteran (Fire Sphere)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "flaming-aura",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Cold or Fire",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "Ud2DrtWWbMgKhAxl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!Ud2DrtWWbMgKhAxl"
+}

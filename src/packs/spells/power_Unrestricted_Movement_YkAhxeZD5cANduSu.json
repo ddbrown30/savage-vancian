@@ -1,0 +1,60 @@
+{
+  "name": "Unrestricted Movement",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell renders the target creature completely immune to all spells and other magical effects which restrict their movement or actions, such as paralysis, Lethargy, Thick Fog, Web, etc.\n The target creature also receives a +4 bonus when attempting to escape from a grapple, grab, constrict, or similar maneuver.\n Finally, the target creature no longer suffers any penalties for Difficult Ground, or for moving or attacking while underwater.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Nightblade, Priest, Shaman, Spellsinger, Unholy Champion, Warden and Fate Sphere)",
+    "duration": "30 minutes per caster rank",
+    "notes": "",
+    "swid": "unrestricted-movement",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "YkAhxeZD5cANduSu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!YkAhxeZD5cANduSu"
+}

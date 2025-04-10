@@ -1,0 +1,60 @@
+{
+  "name": "Mystic Armor",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "The target is surrounded by an invisible field of force, granting them 2 points of armor. This is considered worn armor for the purposes of stacking bonuses, but does not count as armor for the purposes of arcane spell failure.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Novice (Mage)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "mystic-armor",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force, Creation and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "msW5CyWvFe01F8I1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!msW5CyWvFe01F8I1"
+}

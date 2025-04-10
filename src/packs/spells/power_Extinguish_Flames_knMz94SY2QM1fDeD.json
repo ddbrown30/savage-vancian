@@ -1,0 +1,60 @@
+{
+  "name": "Extinguish Flames",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell automatically extinguishes all non- magical fires within an area the size of a Large Burst Template, and also extinguishes magical fires if cast with a raise. Fire elementals within the area automatically suffer 2d6 damage (with the usual\n+d6 damage if the spell is cast with a raise).\n An alternative use of this spell allows it to be cast on a single magic item that creates or controls flame. The item may attempt to resist with an opposed Spirit roll (using its creator's Spirit die), on a failure it loses all of its fire-based abilities for the next 2 hours, or 4 hours if you cast the spell with a raise.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Seasoned (Shaman)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "extinguish-flames",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "knMz94SY2QM1fDeD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!knMz94SY2QM1fDeD"
+}

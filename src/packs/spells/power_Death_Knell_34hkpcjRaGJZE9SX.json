@@ -1,0 +1,60 @@
+{
+  "name": "Death Knell",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets one incapacitated living creature. The creature may attempt to resist with an opposed Spirit roll, and if they fail you drain their remaining life force, killing them instantly without leaving any physical indication of their cause of death. The drained life force increases your Strength by +1 die step and grants you a +1 bonus to Toughness; these bonuses last for 1 hour, or 2 hours on a raise.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Novice (Nightblade, Priest, Unholy Champion and Death Sphere)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "death-knell",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Death, Unholy, Enhancement and Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "34hkpcjRaGJZE9SX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!34hkpcjRaGJZE9SX"
+}

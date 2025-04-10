@@ -1,0 +1,60 @@
+{
+  "name": "Eye Spy",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires one minute to cast, and creates two magical eyes per caster rank, or twice that number on a raise. Each eye looks like a semi- transparent white orb approximately twice the radius of a human eyeball, and must be given a specific set of instructions when created; the eyes know what you know, so their instructions can include references to things and people that you would recognize. Use the monster stats from the 'Eye Spies' section for the eyes; they can see in all directions, but only up to a distance of 24\".\n You must physically touch an eye to see what it has seen, so its instructions will usually include conditions for returning to you. Replaying the images in your mind requires 1 round per hour of observation, and the information is purely visual. Once you've replayed the images, the eye vanishes.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts miles",
+    "rank": "Veteran (Mage)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "eye-spy",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "3NeVhAbP728Z4nSI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!3NeVhAbP728Z4nSI"
+}

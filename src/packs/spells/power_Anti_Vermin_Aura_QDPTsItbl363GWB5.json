@@ -1,0 +1,60 @@
+{
+  "name": "Anti-Vermin Aura",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><h2><span>Anti-Vermin Aura</span></h2><p><b>School:</b>  Abjuration</p><p><b>Casting:</b>  Gestures, incantation and focus</p><p> This spell affects an area the size of a Medium Burst Template, centered on you. The spell is moves with you, and prevents vermin from entering the area. If you try to force the barrier against any vermin, the spell ends immediately.\n</p></div>",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Priest, Shaman, Spellsinger and Warden)",
+    "duration": "30 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "anti-vermin-aura",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "QDPTsItbl363GWB5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!QDPTsItbl363GWB5"
+}

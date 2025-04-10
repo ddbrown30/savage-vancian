@@ -1,0 +1,58 @@
+{
+  "name": "Veteran Animist",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>You now know 2 Veteran spells and 4 spells of each lower rank, and can cast 3 Veteran spells and 6 spells of each lower rank per day.\nWhen you first take this Edge, you may permanently exchange one of your previous known spells for a different spell of the same rank if you wish. Your caster rank is now Veteran when casting Animist spells.</p></div>",
+    "category": "Shaman",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 2
+      },
+      {
+        "combinator": "and",
+        "selector": "spirit",
+        "type": "attribute",
+        "value": 10
+      },
+      {
+        "combinator": "and",
+        "label": "Seasoned Animist",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      }
+    ],
+    "notes": "",
+    "swid": "veteran-animist",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "1cPg5AIn184MuXhl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!1cPg5AIn184MuXhl"
+}

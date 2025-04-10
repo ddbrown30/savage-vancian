@@ -1,0 +1,60 @@
+{
+  "name": "Heal, Improved",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell can target any number of creatures\nwithin a Large Burst Template. It automatically stabilizes those who bleeding out, and removes Shaken, Dazed, blindness, deafness, poisons, diseases, confusion, Fool's Fate and Lunacy, along with all temporary trait damage. The spell also removes one wound and one level of Fatigue for each success and raise on the spellcasting roll.\n Any undead targeted by the spell may attempt to resist with an opposed Spirit roll; on a failure they suffer 2d10 damage.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Legendary (Priest and Healing Sphere)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "heal-improved",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Healing, Direct, Beneficial and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "fGFK0ArTxOQrf2Op",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!fGFK0ArTxOQrf2Op"
+}

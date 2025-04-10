@@ -1,0 +1,60 @@
+{
+  "name": "Wild Shape",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell changes your physical form to that of any animal with which you're familiar, as long as its rank doesn't exceed your caster rank. Replace your Agility, Strength, Vigor, Size, Pace, senses, non- magical movement abilities (such as Flight, Aquatic or Burrow), natural armor and natural weapons with those of the new form, however you do not gain any of its magical abilities.\n You may choose the creature's height, weight and general appearance from the normal ranges for your new form, but you cannot imitate a specific individual. Any equipment you are wearing melds into your body (and becomes non-functional) for the duration of the spell.\n At Veteran caster rank you can also assume the form of plant creatures, while at Legendary caster rank you can assume the form of fire, air, earth and water elementals.\n If you cast this spell with a raise, you can also make an immediate natural healing roll.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Special (Shaman)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "wild-shape",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "Fbkl6bjSOopdugi1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!Fbkl6bjSOopdugi1"
+}

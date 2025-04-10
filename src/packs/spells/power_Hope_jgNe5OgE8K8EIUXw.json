@@ -1,0 +1,60 @@
+{
+  "name": "Hope",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets any number of creatures within a Medium Burst Template. Those affected receive a\n+1 bonus to damage rolls, and also gain a +1 bonus to attack rolls if the spell is cast with a raise. If this spell is cast on someone affected by Despair, the two spells automatically dispel each other.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Seasoned (Spellsinger)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "hope",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Morale, Direct, Beneficial and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "jgNe5OgE8K8EIUXw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!jgNe5OgE8K8EIUXw"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Shape Sound",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell affects up to three targets per caster rank, and can be applied to either creatures or objects, chosen when the spell is cast. Targets can attempt to resist with an opposed Spirit roll, on a failure you can shape the sounds they produce, although all targets must be changed in the same way.\n You can use this spell to make the targets produce new sounds, or to amplify, suppress or change existing sounds, however the precise usage must be defined when the spell is cast and is then fixed for the duration. As a general guideline, this spell can typically be used to provide a situational modifier of +2 or -2 where appropriate (including to spellcasting rolls that require an incantation, Persuasion rolls where a silly voice would be detrimental, Stealth and Notice rolls based on sound, and so on).",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Seasoned (Spellsinger)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "shape-sound",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "1LxuX2bQhDJlOwuF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!1LxuX2bQhDJlOwuF"
+}

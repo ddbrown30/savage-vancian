@@ -1,0 +1,60 @@
+{
+  "name": "Recall Spell",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell can be used in one of two ways, chosen when cast.\n The first option requires ten minutes to cast while studying your spellbook, and allows you to prepare additional spells without first needing to rest - either two Novice spells, one Novice spell and two Cantrips, or four Cantrips. The spells are immediately stored in your mind as if prepared normally, and the slot used to cast this spell cannot be used again until all of the additional spells have been cast.\n The second option is cast as a normal action, and allows you to recall one Cantrip or Novice spell that you've cast the previous round. The recalled spell is immediately stored in your mind as if it had been prepared normally.\n Spontaneous casters cannot learn or cast this spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "recall-spell",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "hg38e2MAzt3UKHIM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!hg38e2MAzt3UKHIM"
+}

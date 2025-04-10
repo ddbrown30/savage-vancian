@@ -1,0 +1,60 @@
+{
+  "name": "Prismatic Blast",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets everyone within a Large Cone Template, striking them with interwoven beams of multicolored light. Each creature within the area may attempt to evade with an opposed Agility roll, if you beat them with a normal success they suffer 2d8 damage (treated as either fire, acid or electricity, chosen at random).\n If you beat a creature with a raise, instead of the normal +d6 damage bonus you must draw an action card and resolve the attack as if they had just been just targeted by the appropriate spell, cast with your original spellcasting roll (the creature may still attempt to resist the effect normally): Clubs is Ray of Weariness, Diamonds is Lunacy,\n\nHearts is Petrification, and Spades is treated like Banish except it works on all creatures and always sends them to a random plane. On a Joker, the caster may choose one of the four effects.",
+    "source": "Savage Vancian Magic",
+    "range": "Large Cone Template",
+    "rank": "Heroic (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "prismatic-blast",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "8AT0HtAK2pIB0OlD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!8AT0HtAK2pIB0OlD"
+}

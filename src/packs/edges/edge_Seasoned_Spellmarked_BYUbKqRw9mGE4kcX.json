@@ -1,0 +1,52 @@
+{
+  "name": "Seasoned Spellmarked",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>You now know 2 Seasoned spells and 4 spells of each lower rank, and can cast 2 Seasoned spells and 4 spells of each lower rank per day.\nYour caster rank is Seasoned when casting Spellmarked spells.</p></div>",
+    "category": "Spellmarked",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 1
+      },
+      {
+        "combinator": "and",
+        "label": "Novice Spellmarked",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      }
+    ],
+    "notes": "",
+    "swid": "seasoned-spellmarked",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "BYUbKqRw9mGE4kcX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!BYUbKqRw9mGE4kcX"
+}

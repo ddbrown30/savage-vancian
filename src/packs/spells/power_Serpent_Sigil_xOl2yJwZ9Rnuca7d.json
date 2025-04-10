@@ -1,0 +1,60 @@
+{
+  "name": "Serpent Sigil",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and creates a small symbol in the text of one written work, such as a map or book. When someone deliberately reads the text (rather than just glancing at it), which must be at least 25 words in length, a reddish-brown serpent appears and strikes at them; the victim may attempt to evade with an Agility roll at -2, on a failure they are engulfed in a shimmering amber field of energy.\n The energy field remains in place for 3 days per caster rank, or 4 days per caster rank if cast with a raise, and the engulfed victim is placed into a state of suspended animation. They do not need to eat, drink, sleep, or breathe, nor do they age or bleed out, however they can still be attacked and harmed by outside forces.\n The sigil cannot be detected by mundane means, and Sense Magic reveals the entire text as magical. It can be removed with Dispel Magic or Efface Writing, although the latter will remove the text as well.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Mage and Spellsinger)",
+    "duration": "Permanent or until discharged",
+    "notes": "",
+    "swid": "serpent-sigil",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force and Creation",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "xOl2yJwZ9Rnuca7d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!xOl2yJwZ9Rnuca7d"
+}

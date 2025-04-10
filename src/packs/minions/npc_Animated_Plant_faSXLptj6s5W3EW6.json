@@ -1,0 +1,656 @@
+{
+  "name": "Animated Plant",
+  "type": "npc",
+  "folder": "K1Kpv1XCNS9LgCcE",
+  "system": {
+    "attributes": {
+      "agility": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "smarts": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "animal": false
+      },
+      "spirit": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "unShakeBonus": 0,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "strength": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "encumbranceSteps": 0
+      },
+      "vigor": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "unStunBonus": 0,
+        "soakBonus": 0,
+        "bleedOut": {
+          "modifier": 0,
+          "ignoreWounds": false
+        }
+      }
+    },
+    "stats": {
+      "toughness": {
+        "value": 5,
+        "modifier": 0,
+        "armor": 0
+      },
+      "parry": {
+        "value": 4,
+        "shield": 0,
+        "modifier": 0
+      },
+      "size": 0,
+      "speed": {}
+    },
+    "details": {
+      "biography": {
+        "value": "Rank: Novice"
+      },
+      "autoCalcToughness": false,
+      "autoCalcParry": true,
+      "archetype": "",
+      "appearance": "",
+      "notes": "",
+      "goals": "",
+      "species": {
+        "name": ""
+      },
+      "currency": 0,
+      "wealth": {
+        "die": 6,
+        "modifier": 0,
+        "wild-die": 6
+      },
+      "conviction": {
+        "value": 0,
+        "active": false
+      }
+    },
+    "powerPoints": {
+      "general": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "wounds": {
+      "max": 0,
+      "ignored": 0,
+      "value": 0
+    },
+    "initiative": {
+      "hasHesitant": false,
+      "hasLevelHeaded": false,
+      "hasImpLevelHeaded": false,
+      "hasQuick": false
+    },
+    "wildcard": false,
+    "additionalStats": {},
+    "bennies": {
+      "value": 0,
+      "max": 0
+    },
+    "pace": {
+      "ground": 6,
+      "running": {
+        "die": 6,
+        "mod": 0
+      },
+      "base": "ground",
+      "fly": null,
+      "swim": null,
+      "burrow": null
+    },
+    "fatigue": {
+      "value": 0,
+      "max": 2,
+      "ignored": 0
+    },
+    "woundsOrFatigue": {
+      "ignored": 0
+    },
+    "advances": {
+      "mode": "expanded",
+      "value": 0,
+      "rank": "Novice",
+      "details": "",
+      "list": []
+    },
+    "status": {
+      "isShaken": false,
+      "isDistracted": false,
+      "isVulnerable": false,
+      "isStunned": false,
+      "isEntangled": false,
+      "isBound": false,
+      "isIncapacitated": false
+    }
+  },
+  "items": [
+    {
+      "system": {
+        "description": "",
+        "notes": "",
+        "additionalStats": {},
+        "attribute": "",
+        "isCoreSkill": false,
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "type": "skill",
+      "name": "Combat Skills",
+      "img": "systems/swade/assets/icons/skill.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "eAtVJYl6MZc5AvpY",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!faSXLptj6s5W3EW6.eAtVJYl6MZc5AvpY"
+    },
+    {
+      "name": "Notice",
+      "type": "skill",
+      "img": "modules/swpf-core-rules/assets/icons/Pathfinder_Icons_Notice.webp",
+      "system": {
+        "description": "See SWADE p.32",
+        "notes": "",
+        "source": "",
+        "swid": "notice",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "XGltUb0dWlJLkvbE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "q3rgAefXAK6tGqyl",
+      "folder": null,
+      "_key": "!actors.items!faSXLptj6s5W3EW6.q3rgAefXAK6tGqyl"
+    },
+    {
+      "system": {
+        "description": "Str+d4.",
+        "equippable": true,
+        "equipStatus": 4,
+        "damage": "@str+d4",
+        "range": "",
+        "rof": 1,
+        "ap": 0,
+        "shots": null,
+        "currentShots": null,
+        "actions": {
+          "trait": "Fighting",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "cost": null
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "rangeType": null,
+        "parry": 0,
+        "minStr": "",
+        "ammo": "",
+        "reloadType": "none",
+        "ppReloadCost": 2,
+        "trademark": 0,
+        "isHeavyWeapon": false
+      },
+      "type": "weapon",
+      "name": "Natural Weapons",
+      "img": "systems/swade/assets/icons/weapon.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "oQ37CgPZUomXgfvc",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!faSXLptj6s5W3EW6.oQ37CgPZUomXgfvc"
+    },
+    {
+      "name": "Low Light Vision",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "No penalties for dim or dark lighting.<br /><hr /><article class=\"swade-core\"><span class=\"lead-bold\">@Compendium[swade-core-rules.swade-racial-abilities.Low Light Vision]{Low Light Vision} (1): </span> The being ignores penalties for Dim or Dark @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03illumination00]{illumination} (but not Pitch Darkness).</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "low-light-vision",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Positive",
+        "grants": [],
+        "build": {
+          "cost": 1
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "qQ1gCG4Mw2qTiZuP",
+      "folder": null,
+      "_key": "!actors.items!faSXLptj6s5W3EW6.qQ1gCG4Mw2qTiZuP"
+    },
+    {
+      "name": "Mindless",
+      "type": "ability",
+      "img": "modules/swpf-bestiary/assets/icons/Pathfinder_Icons_SpecialAbility.webp",
+      "system": {
+        "description": "Immune to mind–affecting magic.<br /><hr /><div class=\"swpf-core\">\n<p>This creature is immune to <em>@Compendium[swpf-core-rules.swpf-powers.Puppet]{Puppet}</em>, @Compendium[swpf-core-rules.swpf-skills.Intimidation]{Intimidation}, @Compendium[swpf-core-rules.swpf-skills.Taunt]{Taunt}, and any attempts to manipulate it with any abilities that @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03situationalr00]{Tests} its @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore01charac.JournalEntryPage.01traitsummari00]{Smarts}.</p>\n</div>",
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {
+        "cf": {
+          "color": "#8c160f",
+          "id": "temp_ig2275amjwb",
+          "path": "Special Abilities"
+        },
+        "core": {
+          "sourceId": "Compendium.swpf-core-rules.swpf-abilities.CBiz3OhCxaIYrR0C"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "6nwIO9h92TI2D6mg",
+      "folder": null,
+      "_key": "!actors.items!faSXLptj6s5W3EW6.6nwIO9h92TI2D6mg"
+    },
+    {
+      "name": "Fearless",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "Immune to fear and Intimidation.<br />@UUID[Compendium.swade-core-rules.swade-specialabilities.Item.Vw83SZWDVLs8aVrx]{Fearless}<hr /><article class=\"swade-core\">\n<p>Mindless creatures, some undead, robots, and the like don’t suffer from the weaknesses of the mortal mind. Fearless creatures are immune to @Compendium[swade-core-rules.swade-powers.Fear]{Fear} effects and @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation}. They may still be @Compendium[swade-core-rules.swade-skills.Taunt]{Taunted}, however (usually because it draws their attention rather than causing emotional distress).</p>\n</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "fearless",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Special Ability",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "L2URVnEugGqZUQ3j",
+      "folder": null,
+      "_key": "!actors.items!faSXLptj6s5W3EW6.L2URVnEugGqZUQ3j"
+    },
+    {
+      "system": {
+        "description": "+2 to recover from Shaken, ignore wound modifiers, poison, and extra damage from called shots.",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        }
+      },
+      "type": "ability",
+      "name": "Plant",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "KEU5PJ3nEjQbDs3s",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!faSXLptj6s5W3EW6.KEU5PJ3nEjQbDs3s"
+    },
+    {
+      "system": {
+        "description": "Sleep, paralysis, polymorph, aging, and bleeding.",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        }
+      },
+      "type": "ability",
+      "name": "Immunities",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "TXUsEkLfpQMIUnZM",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!faSXLptj6s5W3EW6.TXUsEkLfpQMIUnZM"
+    }
+  ],
+  "prototypeToken": {
+    "displayName": 0,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Animated Plant",
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/magic/nature/plant-maneater-yellow.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "flags": {
+    "importerApp": {
+      "app": "SWADE Stat Block Importer",
+      "id": "swade-npc-importer",
+      "appVersion": "0.2.4",
+      "importDate": "2025-04-08T23:30:44.425Z"
+    }
+  },
+  "_id": "faSXLptj6s5W3EW6",
+  "img": "icons/magic/nature/plant-maneater-yellow.webp",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155700320,
+    "modifiedTime": 1744155700320,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!actors!faSXLptj6s5W3EW6"
+}

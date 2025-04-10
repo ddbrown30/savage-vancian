@@ -1,0 +1,60 @@
+{
+  "name": "Discord",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell affects everyone within a Medium Burst Template. Those who fail to resist with an opposed\n\nSpirit roll will automatically hit a random target (but not their original target) whenever they roll 1 or 2 on their Fighting, Shooting or Throwing die, regardless of Wild Die; they will even move when necessary in order to get within striking distance.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Veteran (Spellsinger)",
+    "duration": "3 rounds per caster rank",
+    "notes": "",
+    "swid": "discord",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Sonic, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "b0M32vegH6Lou3Qr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!b0M32vegH6Lou3Qr"
+}

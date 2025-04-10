@@ -1,0 +1,60 @@
+{
+  "name": "Mesmeric Pattern, Improved",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates rainbow-hued pattern of interweaving colors the size of a Medium Burst Template. Those within the area when the spell is first cast may attempt to resist with a standard Spirit roll (at -2 if cast with a raise), on a failure they become Dazed. Sightless creatures are immune to this spell.\n You may move the pattern up to 6\" each turn as a free action, although this has no effect on those it moves over. Any creatures who were Dazed by the initial casting of the spell will attempt to follow the pattern on their turn. Once they recover from being Dazed, the spell loses its influence over them.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Seasoned (Mage and Spellsinger)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "mesmeric-pattern-improved",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "k7nVu0j7Jmwlr7Mw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!k7nVu0j7Jmwlr7Mw"
+}

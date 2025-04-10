@@ -1,0 +1,60 @@
+{
+  "name": "Telepathic Link",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell establishes a telepathic link between you and up to one other willing creature per caster rank. The creatures must all be within range of you and each other when the spell is cast, but once the link is established it allows all affected creatures to telepathically communicate with each other over any distance, as long as they are on the same plane of existence.\n Only sentient creatures can be affected by this spell, not animals or Mindless beings, however the creatures do not need to share a common language in order to communicate. You may also leave yourself unlinked to the other creatures if you wish, decided when the spell is cast.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Veteran (Mage)",
+    "duration": "30 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "telepathic-link",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Perpetuate and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "7mZ6UMnhrKvXXtFa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!7mZ6UMnhrKvXXtFa"
+}

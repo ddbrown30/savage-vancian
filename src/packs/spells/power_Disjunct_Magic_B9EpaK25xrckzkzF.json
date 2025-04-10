@@ -1,0 +1,60 @@
+{
+  "name": "Disjunct Magic",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets all magical effects and items within a Large Burst Template centered on you, except for those in contact with you when you cast the spell. Magical items attempt to resist with an opposed Spirit roll (their owner can roll instead if their chance is higher): on a failure they are permanently drained of their magic. Spells and other magical affects are automatically destroyed, except for Anti-Magic Aura, which can be resisted by its caster with a standard spellcasting roll (at -2 if the Disjunct Magic was cast with a raise).\n Even artifacts can be destroyed with this spell, although they can resist with a standard Spirit roll (at -2 if the Disjunct Magic was cast with a raise). If you do destroy an artifact, you must make an immediate Spirit roll at -2, on a failure you permanently lose all Spellcasting Edges; not even a miracle or wish can restore them. Destroying an artifact is also very likely to draw attention from powerful beings connected to the device.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Legendary (Mage and Magic Sphere)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "disjunct-magic",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "B9EpaK25xrckzkzF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!B9EpaK25xrckzkzF"
+}

@@ -1,0 +1,1066 @@
+{
+  "name": "Improved Eye Spy",
+  "type": "npc",
+  "folder": "K1Kpv1XCNS9LgCcE",
+  "system": {
+    "attributes": {
+      "agility": {
+        "die": {
+          "sides": 12,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "smarts": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "animal": false
+      },
+      "spirit": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "unShakeBonus": 2,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "strength": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "encumbranceSteps": 0
+      },
+      "vigor": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "unStunBonus": 0,
+        "soakBonus": 0,
+        "bleedOut": {
+          "modifier": 0,
+          "ignoreWounds": false
+        }
+      }
+    },
+    "stats": {
+      "toughness": {
+        "value": 1,
+        "modifier": 0,
+        "armor": 0
+      },
+      "parry": {
+        "value": 2,
+        "shield": 0,
+        "modifier": 0
+      },
+      "size": -2,
+      "speed": {}
+    },
+    "details": {
+      "biography": {
+        "value": "The Improved Eye Spy looks like a semi– transparent white orb approximately twice the radius of a human eyeball. It can see in all directions, but only up to a distance of 24\".<br />"
+      },
+      "autoCalcToughness": false,
+      "autoCalcParry": true,
+      "archetype": "",
+      "appearance": "",
+      "notes": "",
+      "goals": "",
+      "species": {
+        "name": ""
+      },
+      "currency": 0,
+      "wealth": {
+        "die": 6,
+        "modifier": 0,
+        "wild-die": 6
+      },
+      "conviction": {
+        "value": 0,
+        "active": false
+      }
+    },
+    "powerPoints": {
+      "general": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "wounds": {
+      "max": 0,
+      "ignored": 1,
+      "value": 0
+    },
+    "initiative": {
+      "hasHesitant": false,
+      "hasLevelHeaded": false,
+      "hasImpLevelHeaded": false,
+      "hasQuick": false
+    },
+    "wildcard": false,
+    "additionalStats": {},
+    "bennies": {
+      "value": 0,
+      "max": 0
+    },
+    "pace": {
+      "ground": 0,
+      "running": {
+        "die": 6,
+        "mod": 0
+      },
+      "base": "ground",
+      "fly": null,
+      "swim": null,
+      "burrow": null
+    },
+    "fatigue": {
+      "value": 0,
+      "max": 2,
+      "ignored": 0
+    },
+    "woundsOrFatigue": {
+      "ignored": 0
+    },
+    "advances": {
+      "mode": "expanded",
+      "value": 0,
+      "rank": "Novice",
+      "details": "",
+      "list": []
+    },
+    "status": {
+      "isShaken": false,
+      "isDistracted": false,
+      "isVulnerable": false,
+      "isStunned": false,
+      "isEntangled": false,
+      "isBound": false,
+      "isIncapacitated": false
+    }
+  },
+  "items": [
+    {
+      "name": "Notice",
+      "type": "skill",
+      "img": "modules/swpf-core-rules/assets/icons/Pathfinder_Icons_Notice.webp",
+      "system": {
+        "description": "See SWADE p.32",
+        "notes": "",
+        "source": "",
+        "swid": "notice",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 12,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "XGltUb0dWlJLkvbE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "HFD2E3efw0npWhgg",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.HFD2E3efw0npWhgg"
+    },
+    {
+      "system": {
+        "description": "",
+        "notes": "",
+        "additionalStats": {},
+        "attribute": "",
+        "isCoreSkill": false,
+        "die": {
+          "sides": 12,
+          "modifier": 0
+        },
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "type": "skill",
+      "name": "Stealth  Charisma –;",
+      "img": "systems/swade/assets/icons/skill.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "TsCitjGuj57WYG32",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.TsCitjGuj57WYG32"
+    },
+    {
+      "name": "Alertness",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>See SWADE p.37</p>",
+        "notes": "",
+        "source": "",
+        "swid": "alertness",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 100001,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "GgoVIeEfh3SM7rut",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.GgoVIeEfh3SM7rut"
+    },
+    {
+      "name": "Small (M)",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "See SWADE p.27",
+        "notes": "",
+        "source": "",
+        "swid": "small",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "either",
+        "major": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "XGltUb0dWlJLkvbE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "LN16vhrdBbYncNsN",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.LN16vhrdBbYncNsN"
+    },
+    {
+      "system": {
+        "description": "No melee attacks",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        }
+      },
+      "type": "ability",
+      "name": "Tactics",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "zxP8gvPShXVYY2sE",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.zxP8gvPShXVYY2sE"
+    },
+    {
+      "system": {
+        "description": "Can see through illusions, shapechanging, invisibility, etc.",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        }
+      },
+      "type": "ability",
+      "name": "Truevision",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "CgHsuEBt1IbwCztp",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.CgHsuEBt1IbwCztp"
+    },
+    {
+      "name": "Darkvision",
+      "type": "ability",
+      "img": "modules/swpf-core-rules/assets/icons/Pathfinder_Icons_SpecialAbility.webp",
+      "system": {
+        "description": "No vision penalties for darkness (range 24\").<br /><hr /><article class=\"swpf-core\">Tieflings ignore penalties for  Illumination up to 10” (20 yards).</article>",
+        "notes": "",
+        "source": "SWPF Advanced Players Guide",
+        "swid": "tiefling-darkvision",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Tiefling Abilities",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "singleSource": {
+          "version": "2.0.0-alpha",
+          "module": "swpf-apg"
+        },
+        "origin": "Tiefling",
+        "sigil": {
+          "completed": true
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "wx6hOprBgUONYt0V",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.wx6hOprBgUONYt0V"
+    },
+    {
+      "name": "Mindless",
+      "type": "ability",
+      "img": "modules/swpf-bestiary/assets/icons/Pathfinder_Icons_SpecialAbility.webp",
+      "system": {
+        "description": "Immune to mind–affecting magic.<br /><hr /><div class=\"swpf-core\">\n<p>This creature is immune to <em>@Compendium[swpf-core-rules.swpf-powers.Puppet]{Puppet}</em>, @Compendium[swpf-core-rules.swpf-skills.Intimidation]{Intimidation}, @Compendium[swpf-core-rules.swpf-skills.Taunt]{Taunt}, and any attempts to manipulate it with any abilities that @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03situationalr00]{Tests} its @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore01charac.JournalEntryPage.01traitsummari00]{Smarts}.</p>\n</div>",
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {
+        "cf": {
+          "color": "#8c160f",
+          "id": "temp_ig2275amjwb",
+          "path": "Special Abilities"
+        },
+        "core": {
+          "sourceId": "Compendium.swpf-core-rules.swpf-abilities.CBiz3OhCxaIYrR0C"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "nKx111EMTFZ2D9wz",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.nKx111EMTFZ2D9wz"
+    },
+    {
+      "name": "Fearless",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "Immune to fear and Intimidation.<br />@UUID[Compendium.swade-core-rules.swade-specialabilities.Item.Vw83SZWDVLs8aVrx]{Fearless}<hr /><article class=\"swade-core\">\n<p>Mindless creatures, some undead, robots, and the like don’t suffer from the weaknesses of the mortal mind. Fearless creatures are immune to @Compendium[swade-core-rules.swade-powers.Fear]{Fear} effects and @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation}. They may still be @Compendium[swade-core-rules.swade-skills.Taunt]{Taunted}, however (usually because it draws their attention rather than causing emotional distress).</p>\n</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "fearless",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Special Ability",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "M7e8AWu44r4InT34",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.M7e8AWu44r4InT34"
+    },
+    {
+      "name": "Construct",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "+2 to recover from Shaken, ignore wound modifiers, disease, poison, and extra damage from called shots.<br />@UUID[Compendium.swade-core-rules.swade-specialabilities.Item.2uSwOIunhYr4RA7G]{Construct}<hr /><article class=\"swade-core\"><span class=\"lead-bold\">@Compendium[swade-core-rules.swade-racial-abilities.Construct]{Construct} (1): </span> Constructs are artificial beings made of inorganic material. They add +2 to recover from being @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Shaken}, ignore one level of @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wound modifiers}, don’t breathe, and are immune to disease and poison. @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wounds} must be mended via the @Compendium[swade-core-rules.swade-skills.Repair]{Repair} skill. Each attempt takes one hour per current @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wound} level and ignores the @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03healing0000000]{\"The Golden Hour\"}. Many Constructs have the Dependency negative ancestral ability (reflecting their need for a power source).</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "construct",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Positive",
+        "grants": [],
+        "build": {
+          "cost": 2
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "LpBn1TUzHNV3VFRW",
+          "changes": [
+            {
+              "key": "system.attributes.spirit.unShakeBonus",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            },
+            {
+              "key": "system.wounds.ignored",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            },
+            {
+              "key": "flags.swade-core-rules.ignoreBleedOut",
+              "mode": 2,
+              "value": "true",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "flags": {
+            "sigil": {
+              "completed": true
+            }
+          },
+          "name": "Construct",
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<article class=\"swade-core\"><span class=\"lead-bold\">@Compendium[swade-core-rules.swade-racial-abilities.Construct]{Construct} (1): </span> Constructs are artificial beings made of inorganic material. They add +2 to recover from being @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Shaken}, ignore one level of @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wound modifiers}, don’t breathe, and are immune to disease and poison. @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wounds} must be mended via the @Compendium[swade-core-rules.swade-skills.Repair]{Repair} skill. Each attempt takes one hour per current @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Wound} level and ignores the @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03healing0000000]{\"The Golden Hour\"}. Many Constructs have the Dependency negative ancestral ability (reflecting their need for a power source).</article>",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "12.331",
+            "systemId": "swade",
+            "systemVersion": "4.4.2",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/ability.svg",
+          "type": "base",
+          "system": {
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false,
+            "conditionalEffect": false
+          },
+          "origin": null,
+          "statuses": [],
+          "sort": 0,
+          "_key": "!actors.items.effects!JdGXuNa01i6UFPTN.IIYrH96HhVaBLDX5.LpBn1TUzHNV3VFRW"
+        }
+      ],
+      "_id": "IIYrH96HhVaBLDX5",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.IIYrH96HhVaBLDX5"
+    },
+    {
+      "name": "Flight",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "Flying Pace of 6\" and Climb 3.<br />@UUID[Compendium.swade-core-rules.swade-specialabilities.Item.bvNxxTm14d8tD9aF]{Flight}<hr /><article class=\"swade-core\"><span class=\"lead-bold\">@Compendium[swade-core-rules.swade-racial-abilities.Flight]{Flight} (1): </span> The species can fly at @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03movement000000]{Pace} 6 (or 12 for 4 points) and “run” for extra movement as usual. For 6 points, the being can fly at 24 and may “run” for 2d6″ of additional movement. Maneuvering uses the @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics} skill. Flight presumes some kind of wings which can be targeted or fouled (a <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03boundandenta00]{Bound or Entangled}</strong> character cannot fly).</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "flight",
+        "additionalStats": {},
+        "choiceSets": [
+          {
+            "title": "Choose Flight Pace.",
+            "choice": null,
+            "choices": [
+              {
+                "name": "Pace 6",
+                "addToName": true,
+                "mutation": {
+                  "system": {
+                    "build": {
+                      "cost": 2
+                    }
+                  },
+                  "effects": [
+                    {
+                      "_id": "2t7C73HNJqP4WwCq",
+                      "img": "systems/swade/assets/icons/ability.svg",
+                      "name": "Flight Pace 6",
+                      "changes": [
+                        {
+                          "key": "system.pace.fly",
+                          "mode": 2,
+                          "value": 6,
+                          "priority": null
+                        },
+                        {
+                          "key": "system.pace.base",
+                          "mode": 5,
+                          "value": "fly",
+                          "priority": null
+                        }
+                      ],
+                      "disabled": true,
+                      "flags": {
+                        "swade": {
+                          "favorite": true
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Pace 12",
+                "addToName": true,
+                "mutation": {
+                  "system": {
+                    "build": {
+                      "cost": 4
+                    }
+                  },
+                  "effects": [
+                    {
+                      "_id": "QZhCgT9JmOK1V1fL",
+                      "img": "systems/swade/assets/icons/ability.svg",
+                      "name": "Flight Pace 12",
+                      "changes": [
+                        {
+                          "key": "system.pace.fly",
+                          "mode": 2,
+                          "value": 12,
+                          "priority": null
+                        },
+                        {
+                          "key": "system.pace.base",
+                          "mode": 5,
+                          "value": "fly",
+                          "priority": null
+                        }
+                      ],
+                      "disabled": true,
+                      "flags": {
+                        "swade": {
+                          "favorite": true
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Pace 24 Run 2d6",
+                "addToName": true,
+                "mutation": {
+                  "system": {
+                    "build": {
+                      "cost": 2
+                    }
+                  },
+                  "effects": [
+                    {
+                      "_id": "4HwVMamkGVbfl50t",
+                      "img": "systems/swade/assets/icons/ability.svg",
+                      "name": "Flight Pace 24 Run 2d6",
+                      "changes": [
+                        {
+                          "key": "system.pace.fly",
+                          "mode": 2,
+                          "value": 24,
+                          "priority": null
+                        },
+                        {
+                          "key": "system.pace.base",
+                          "mode": 5,
+                          "value": "fly",
+                          "priority": null
+                        }
+                      ],
+                      "disabled": true,
+                      "flags": {
+                        "swade": {
+                          "favorite": true
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "favorite": false,
+        "category": "Positive",
+        "grants": [],
+        "build": {
+          "cost": 2
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "PQeeaHuoS6KgLlrD",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.PQeeaHuoS6KgLlrD"
+    },
+    {
+      "name": "Immunity",
+      "type": "ability",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "Gang Up bonuses.<br />@UUID[Compendium.swade-core-rules.swade-specialabilities.Item.GZYO1iFXi1fzbbhH]{Immunity}<hr /><article class=\"swade-core\">\n<p>Creatures born in fire aren’t affected by @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04heat0000000000]{heat}, and a horror made of pure lightning won’t suffer from a <em>@Compendium[swade-core-rules.swade-powers.Bolt]{bolt}</em> attack with an electrical @UUID[Compendium.swade-core-rules.swade-rules.swadecor05powers.JournalEntryPage.05trappings00000]{trapping}. Immunities are to specific types of attacks, such as @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04fire0000000000]{fire}, @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04cold0000000000]{cold}, electricity, and so on. Such creatures don’t have <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor06bestia.JournalEntryPage.06specialabili19]{Invulnerability}</strong>, they just ignore @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{damage} and @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03stunned0000000]{Stun} results from the specific attack types named.</p>\n</article>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "immunity",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Special Ability",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "G1PHXTGhuSdCPNrP",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.G1PHXTGhuSdCPNrP"
+    },
+    {
+      "name": "Size –2",
+      "type": "ability",
+      "img": "modules/swpf-bestiary/assets/icons/Pathfinder_Icons_SpecialAbility.webp",
+      "system": {
+        "description": "Reduces Toughness by –2.<br /><hr /><div class=\"swpf-core\">\n<p>Size grants a bonus to Toughness (or penalty for small creatures) and is a <em>guide</em> to the typical @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03rules000000000]{Strength} of creatures in that general range.</p>\n<p>Size is generally based on mass, but exceptions exist for extremely large but weak creatures, small but strong beings, etc.</p>\n<p>Scale Modifiers are explained under <strong>@UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03situationalr00]{Size &amp; Scale}</strong>.</p>\n<p><strong>Additional Wounds:</strong> Large creatures can take an additional @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03combat00000000]{Wound}, Huge can take two, and Gargantuan three. The maximum Wound penalty is always three. This stacks with <strong>@Compendium[swpf-core-rules.swpf-abilities.Resilient/Very Resilient]{Resilient/Very Resilient}</strong>.</p>\n<p>Such creatures typically have @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore02gear00.JournalEntryPage.02gear0000000000]{Reach} equal to the additional @UUID[Compendium.swpf-core-rules.swpf-rules.swpfcore03rules0.JournalEntryPage.03combat00000000]{Wounds} granted by Size.</p>\n</div>",
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        },
+        "subtype": "special",
+        "grantsPowers": false
+      },
+      "sort": 0,
+      "ownership": {
+        "7ntJSLixH2Phv2jV": 3,
+        "default": 0
+      },
+      "flags": {
+        "cf": {
+          "color": "#8c160f",
+          "id": "temp_ig2275amjwb",
+          "path": "Special Abilities"
+        },
+        "core": {
+          "sourceId": "Compendium.swpf-core-rules.swpf-abilities.RDTeKCoXPWuo84b0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "l3N8Q68GEbYSWgXY",
+      "folder": null,
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.l3N8Q68GEbYSWgXY"
+    },
+    {
+      "system": {
+        "description": "+2 to attack medium–sized foes, they receive –2 to their attacks.",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "cost": null
+        }
+      },
+      "type": "ability",
+      "name": "Small",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "effects": [],
+      "flags": {},
+      "_id": "yZR94MUwh21ZC3Ql",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "swade",
+        "systemVersion": "4.4.2",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!JdGXuNa01i6UFPTN.yZR94MUwh21ZC3Ql"
+    }
+  ],
+  "prototypeToken": {
+    "displayName": 0,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Improved Eye Spy",
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "icons/magic/perception/eye-winged-pink.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "flags": {
+    "importerApp": {
+      "app": "SWADE Stat Block Importer",
+      "id": "swade-npc-importer",
+      "appVersion": "0.2.4",
+      "importDate": "2025-04-08T23:34:55.137Z"
+    }
+  },
+  "_id": "JdGXuNa01i6UFPTN",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155700320,
+    "modifiedTime": 1744155700320,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!actors!JdGXuNa01i6UFPTN"
+}

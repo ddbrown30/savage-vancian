@@ -1,0 +1,60 @@
+{
+  "name": "Planar Summoning",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and you must first cast an inward-focused Ward spell to hold the creature you plan to summon. You then either speak the true name of the creature you wish to summon, or specify a certain kind of creature if you don't wish to summon a specific individual. The target creature may then attempt to resist the spell with an opposed Spirit roll, if they fail they are summoned within the circle.\n Once the creature has been summoned it will usually attempt to escape the circle, but if that fails you can negotiate with it using Persuasion along with various offers and bribes. If the creature can be convinced to perform a service, it will be bound to obey to the best of its ability until that service is complete, although it may attempt to subvert your instructions if you annoyed it too much. The creature returns to its home plane once the service is complete, or after three days per caster rank, whichever occurs first.\n The rank of the creature you summon cannot exceed the rank of this spell, and the trappings are\n\nbasedonthesupernaturalalignmentofthe creature.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Special (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "planar-summoning",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct, plus either Holy, Unholy, Lawful or Chaotic Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "pvu7uk2w2xsgjyej",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!pvu7uk2w2xsgjyej"
+}

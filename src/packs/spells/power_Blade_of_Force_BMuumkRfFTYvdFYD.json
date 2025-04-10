@@ -1,0 +1,60 @@
+{
+  "name": "Blade of Force",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><h2><span>Blade of Force</span></h2><p><b>School:</b>  Evocation</p><p><b>Casting:</b>  Gestures, incantation and focus (250 gp)</p><p> This spell creates a shimmering blade of force, which immediately attacks one specified target within range. You can telepathically change the target as a normal action, otherwise it continues attacking its current target each round. If there is no valid target, the blade hovers beside you.\n Treat the blade as a Wild Card with d8 in all attributes and Fighting equal to your spellcasting skill. It can only perform standard attacks, inflicting 2d8 damage. The blade doesn't provide or benefit from Gang Up, nor does it provoke a free attack if it withdraws from combat. It can follow its target anywhere within range as a free action.\n \nThe blade cannot be Shaken or damaged, but can be dispelled, and is automatically destroyed by Disintegration.\n</p></div>",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Mage)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "blade-of-force",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "BMuumkRfFTYvdFYD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!BMuumkRfFTYvdFYD"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Prismatic Barrier",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates an immobile opaque barrier of multicolored light up to 2\" wide and 1\" high per caster rank, which must appear within an unoccupied location, otherwise the spell fails. The barrier automatically blocks all types of attack (including mental and breath weapons) and spells, the only thing capable of passing through it is a creature (and its gear).\n Those passing through the barrier automatically suffer 3d4 damage (one die deals fire, one acid, and one electricity) and must draw an action card, resolving the result as if they had just been targeted by the appropriate spell, cast with the same spellcasting roll you used to cast Prismatic Barrier (the creature may still attempt to resist the effect normally): Clubs is Ray of Weariness, Diamonds is Lunacy, Hearts is Petrification, and Spades is treated like Banish except it works on all creatures and always sends them to a random plane. On a Joker, draw two cards and apply both (if they both have the same suit, draw again until you have two different suits).\n The barrier cannot be dispelled, and even an Anti- Magic Aura cannot suppress it, although Disjunct Magic will destroy it. Anyone within 4\" of the barrier who looks at its shimmering lights must make a Smarts roll or be blinded until they next draw Hearts for initiative.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Mage)",
+    "duration": "30 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "prismatic-barrier",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Perpetuate and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "vGWTtkRQupjJ32kC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!vGWTtkRQupjJ32kC"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Spell Penetration",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>Your potent spells are able to penetrate magical defenses with ease. Whenever someone attempts to resist your spells using Magic Resistance, reduce their Magic Resistance by 2; if this would take it below 1, their Magic Resistance provides them with no protection from your spells. Your offensive spells also gain AP 2 against Magic Resistance armor.</p></div>",
+    "category": "Magic",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 1
+      },
+      {
+        "combinator": "and",
+        "label": "any Spellcaster Edge",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      }
+    ],
+    "notes": "",
+    "swid": "spell-penetration",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "SnIGyrCQ4DyzZ4di",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!SnIGyrCQ4DyzZ4di"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Wall of Thorns",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell conjures a wall of tough thorns consisting of up to 3 sections per caster rank, each of which are 2\"x2\"x2\" blocks (the caster may instead choose to conjure twice the number of sections each 2\"x2\"x1\"). The wall is considered Difficult Ground, and anyone pushing through it suffers 2d4 slashing damage, +1 slashing damage for every 1\" moved that round (e.g., 2d4+3 damage if they move 3\"). Chopping through the wall is possible, but slow work, requiring half an hour per 1\". The wall cannot be damaged by normal fire, but magical fire can burn it away in 10 minutes. Spells that target plants have no effect on the wall.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Veteran (Shaman and Plant Sphere)",
+    "duration": "30 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "wall-of-thorns",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Creation and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "H4MbzDZQRgGbXff7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!H4MbzDZQRgGbXff7"
+}

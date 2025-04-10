@@ -1,0 +1,60 @@
+{
+  "name": "Prayer",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell affects everyone within a Large Burst Template centered on you. Those you consider allies receive a +1 bonus to their weapon damage rolls, while those you perceive as enemies receive a -1 penalty to their weapon damage rolls unless they resist with an opposed Spirit roll.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Holy Champion and Priest)",
+    "duration": "3 rounds per caster rank",
+    "notes": "",
+    "swid": "prayer",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Luck and Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "YGo8vHRvpGdNJB6P",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!YGo8vHRvpGdNJB6P"
+}

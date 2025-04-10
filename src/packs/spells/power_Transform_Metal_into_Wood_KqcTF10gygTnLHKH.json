@@ -1,0 +1,60 @@
+{
+  "name": "Transform Metal into Wood",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell permanently transforms all metal objects within a Large Burst Template into wood, including coins, weapons and armor. Creatures within the target area can attempt to resist with an opposed Spirit roll, if successful the spell doesn't affect any metal objects they're wearing or carrying.\n Magic items can also attempt to resist using the spellcasting skill of their creator (typically at least d8 along with a Wild Die). For magic items this is a standard TN 4 roll rather than an opposed roll, made at -2 if the spell was cast with a raise. Artifacts are not affected by this spell.\n Metal weapons transformed into wood are considered improvised (-1 to attack and Parry), and automatically break if the wielder rolls 1 on their skill die. Metal armor provides 1 point less protection when transformed into wood.\n The transformation can only be reverted with a limited wish, miracle or wish.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 4",
+    "rank": "Heroic (Shaman)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "transform-metal-into-wood",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "KqcTF10gygTnLHKH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!KqcTF10gygTnLHKH"
+}

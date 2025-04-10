@@ -1,0 +1,60 @@
+{
+  "name": "Illusionary Clone",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spells projects a clone of you that appears at any visible location within range. The illusion looks, sounds and even smells like you, although it has no physical substance. You can independently control the clone each round as a normal action, otherwise it mimics your actions.\n You can choose to perceive the world through your clone's eyes and ears at will, but cannot use your own senses at the same time. When casting other spells (including those with range Touch), you may choose to have them originate from the clone\n\ninstead of from yourself, although the clone cannot cast spells upon itself unless they are illusions.\n There must be an unblocked line between you and the clone at all times in order to maintain the connection, otherwise the spell ends immediately. Creatures and visual obscurement such as fog or darkness do not break the connection, but solid barriers such as walls or closed doors will cause the clone to vanish. This spell requires a small doll that looks like you, which is consumed during casting.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Veteran (Spellsinger) or Heroic (Mage)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "illusionary-clone",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "SOKpI8CAM6yCbGLD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!SOKpI8CAM6yCbGLD"
+}

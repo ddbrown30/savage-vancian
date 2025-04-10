@@ -1,0 +1,60 @@
+{
+  "name": "Mend Object",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell repairs a single damaged object weighing no more than one pound, as if the spellcasting roll were actually a Repair roll (with no modifiers for tools or a lack thereof). It can only repair a single break in a metallic object, but can repair multiple breaks in most other materials (such as ceramic, wood, leather, etc.). It is possible to repair magic items, but this doesn't restore their magical abilities.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts / 2",
+    "rank": "Cantrip (Mage, Priest, Shaman, Spellsinger and Spellwright)",
+    "duration": "Smarts",
+    "notes": "",
+    "swid": "mend-object",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct, Beneficial and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "CEcZLv52Uamn0ywL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!CEcZLv52Uamn0ywL"
+}

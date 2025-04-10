@@ -1,0 +1,60 @@
+{
+  "name": "Repulsion",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires an hour to cast, and causes the targeted object or location to magically repel a specific type of creature, or creatures with a specific supernatural alignment, chosen when the spell is cast. A location targeted by this spell can be as big as the range of the spell. Creatures affected by this spell feel an overwhelming urge to avoid the object or leave the area; they may resist with a Spirit roll at -2 (or at -4 if the spell is cast with a raise), but this causes them great discomfort, and\n\nreduces their Parry by 2 until they drop the object or leave the area.\n If this spell is cast on an object or area affected by Attraction, the two spells dispel each other.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Mage) or Legendary (Shaman)",
+    "duration": "6 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "repulsion",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "1z1IBCq6HNkmAXIb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!1z1IBCq6HNkmAXIb"
+}

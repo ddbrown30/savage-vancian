@@ -1,0 +1,60 @@
+{
+  "name": "Wall of Force",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell conjures an invisible wall of force consisting of up to 3 sections per caster rank, each of which are 2x2\", and impervious to damage. The sections must be connected to each other to form a continuous unbroken vertical plane. The wall cannot be dispelled, although it is automatically destroyed by the Disintegration or Disjunct Magic spells. The wall blocks creatures (both physical and ethereal), spells and attacks (except for gaze attacks), although teleportation can bypass it.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Veteran (Mage and Spellwright)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "wall-of-force",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force, Perpetuate and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "B2jLoHffM2hvLNsd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!B2jLoHffM2hvLNsd"
+}

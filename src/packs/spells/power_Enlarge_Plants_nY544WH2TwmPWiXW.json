@@ -1,0 +1,60 @@
+{
+  "name": "Enlarge Plants",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "If this spell is cast directly on a plant creature, it may attempt to resist with an opposed Vigor roll if it wishes; on a failure, its size temporarily increases by one category, or two categories on a raise. Each size category increases the creature's Strength by\n+2 die steps and it's Toughness by +2, but it also suffers a -1 penalty to all attacks, and attacks against it receive a +1 bonus to hit. If the creature is constrained or has insufficient space to grow, the spell automatically fails. Any equipment the creature is carrying is also enlarged for the duration of the spell, or until it leaves their person. This does not stack with other spells or magical effects that increase size.\n Alternatively, this spell can be used to permanently effect the surrounding terrain. When focused on the local area, all normal vegetation within range becomes heavily overgrown; anyone wishing to pass through it must make a Strength or Agility roll to force or squeeze their way through, with each success and raise on the roll allowing them to move 1\", up to their maximum Pace. If the spell isn't focused on the local area, it instead enriches all normal vegetation within half a mile, increasing its productivity for the current year.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 4",
+    "rank": "Seasoned (Shaman, Warden and Plant Sphere)",
+    "duration": "3 minutes per caster rank, or Instant",
+    "notes": "",
+    "swid": "enlarge-plants",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "nY544WH2TwmPWiXW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!nY544WH2TwmPWiXW"
+}

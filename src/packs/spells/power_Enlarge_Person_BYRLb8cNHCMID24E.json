@@ -1,0 +1,60 @@
+{
+  "name": "Enlarge Person",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires a full round to cast, and increases the size of one humanoid creature, who may attempt to resist with an opposed Vigor roll if they wish. The creature's Strength increases by +2 die steps and their Toughness by +2, but they suffer a -1 penalty to all attacks, and attacks against them receive a +1 bonus to hit. If cast with a raise, these modifiers may be doubled if the caster wishes. If the creature is constrained or has insufficient space to grow, the spell automatically fails. Any equipment the creature is carrying is also enlarged for the duration of the spell, or until it leaves their person.\n \nThis spell does not stack with other spells or magical effects that increase size.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Novice (Mage and Strength Sphere)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "enlarge-person",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Perpetuate, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "BYRLb8cNHCMID24E",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!BYRLb8cNHCMID24E"
+}

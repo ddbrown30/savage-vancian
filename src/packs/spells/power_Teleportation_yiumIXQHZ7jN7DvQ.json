@@ -1,0 +1,60 @@
+{
+  "name": "Teleportation",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell transports you and up to one willing creature per caster rank to another location on the same plane of existence, up to 300 miles away per caster rank.\n If you roll 1 on the spellcasting die and the spell is successfully cast, draw an action card; on Clubs you arrive off-target. If you're very familiar with the destination you may draw two cards and choose which to keep. Should the destination no longer exists, or have been completely altered since last you saw it, you automatically arrive off-target.\n When you arrive off-target, consult the rank of the action card to determine what happened: a face card indicates that you arrived in a completely different location that looks similar; 6-10 indicates that you arrive safely in a random location (typically d100% of the distance you wished to travel, in a random direction, relative to your desired destination); 2-5 also indicates that you arrive in a random location, but you (and those you brought with you) suffer 2d6 damage.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Veteran (Mage and Wayfare Sphere)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "teleportation",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "yiumIXQHZ7jN7DvQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!yiumIXQHZ7jN7DvQ"
+}

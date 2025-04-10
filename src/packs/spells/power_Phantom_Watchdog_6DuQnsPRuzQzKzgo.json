@@ -1,0 +1,60 @@
+{
+  "name": "Phantom Watchdog",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell conjures a phantom watchdog that is invisible to everyone other than you. The hound doesn't move, but will guard the area where it was conjured. If anyone comes within 6\" of the hound (other than those who were already within 6\" when the spell was first cast) it will begin barking loudly, and if an intruder moves adjacent to the hound it will immediately attack.\n The hound has Fighting d10 and inflicts Str+d6 damage with its bite. It has Low Light Vision, can see invisible and ethereal creatures, and ignores spells with a Figment trapping. It also has the First Strike Edge. The hound cannot be attacked, Shaken or damaged, it can only be avoided or dispelled.\n The duration is 3 hours per caster rank while the hound on guard, and a further 3 rounds per caster rank once it starts barking. If you ever move more than 15\" away from the hound, the spell ends.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Veteran (Mage)",
+    "duration": "3 hours per caster rank, then 3 rounds per caster rank",
+    "notes": "",
+    "swid": "phantom-watchdog",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Creation and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "6DuQnsPRuzQzKzgo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!6DuQnsPRuzQzKzgo"
+}

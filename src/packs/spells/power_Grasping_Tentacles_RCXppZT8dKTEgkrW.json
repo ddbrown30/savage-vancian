@@ -1,0 +1,60 @@
+{
+  "name": "Grasping Tentacles",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell conjures a field of black rubbery tentacles within an area the size of a Medium Burst Template. At the end of your turn each round (including the round they are summoned) the tentacles make a grappling attack against every creature within reach; a creature who is already grappled is instead crushed for Str damage. The area is also considered Difficult Ground.\n The tentacles have a Wild Die (but no bennies), a Fighting skill equal to your spellcasting skill, Strength d12, reach 1\", and the First Strike Edge. They suffer no penalty for attacking multiple targets, but they also receive no Gang Up bonus from other tentacles. The tentacles are immune to tricks, tests of will, and all forms of damage.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Seasoned (Mage)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "grasping-tentacles",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Creation and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "RCXppZT8dKTEgkrW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!RCXppZT8dKTEgkrW"
+}

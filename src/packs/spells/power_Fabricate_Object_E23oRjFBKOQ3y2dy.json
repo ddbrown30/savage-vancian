@@ -1,0 +1,60 @@
+{
+  "name": "Fabricate Object",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell allows you to fabricate a single non- magical inanimate object from one type of available material within range. This does not change the quality or quantity of the material used, and if the object requires skilled craftsmanship you must also roll the appropriate skill (as if you were crafting the object normally, except much faster and without the need for tools).\n You can use up to 3 cubic feet of minerals or 30 cubic feet of other materials per caster rank, however the spell requires 1 full round to cast per 1 cubic foot of minerals or 10 cubic feet of other materials (or fraction thereof). You cannot use creatures, magical objects, or attended objects as the material for this spell, and the fabrication is too slow to entrap a conscious target.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Veteran (Mage and Spellwright)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "fabricate-object",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "E23oRjFBKOQ3y2dy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!E23oRjFBKOQ3y2dy"
+}

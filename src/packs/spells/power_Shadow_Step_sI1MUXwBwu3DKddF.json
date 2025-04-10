@@ -1,0 +1,60 @@
+{
+  "name": "Shadow Step",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell transports you and up to three other willing creatures per caster rank to the border between the material plane and the plane of shadows.  Due  to  the  differences  in  relative\n\ndistances between the two planes, every mile you travel along the border moves you the equivalent of twenty miles in the material plane.\n However the unpredictable nature of the plane of shadows makes it impossible to judge distances with perfect accuracy, and the warping of reality prevents you from making out any details in the material plane. Not only does this render the spell worthless for spying or scouting, it also makes it difficult to arrive at a specific location - typically you will arrive within a few thousand feet of your desired destination, or a few hundred feet if you cast the spell with a raise.\n You may also use this spell to travel to other planes, by moving through the plane of shadows and finding the point where it borders with the plane you wish to enter. Navigating the plane of shadows typically requires a Smarts roll: on a raise you find your destination in one hour, while on a normal success you find it in two hours, and on a failure you're lost for two hours and must roll again to keep looking. If you have Knowledge (Planes) you may roll that instead: a success indicates that you reach your destination in one hour, while a failure indicates that you reach your destination in two hours.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Veteran (Mage and Spellsinger)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "shadow-step",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "sI1MUXwBwu3DKddF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!sI1MUXwBwu3DKddF"
+}

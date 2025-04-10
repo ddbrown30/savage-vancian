@@ -1,0 +1,60 @@
+{
+  "name": "Soul Trap",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets one creature within range, who may attempt to resist with a Spirit roll (at -2 if the spell is cast with a raise): on a failure they are transferred into a gem, which you must hold while casting the spell. If they succeed at the Spirit roll, the gem shatters. If you know and speak the creature's true name while casting this spell, they suffer a further -2 penalty to resist, and cannot use any Magic Resistance they might have.\n An alternative use of this spell allows you to inscribe the name of the target creature onto a specially prepared trigger object. If the named creature willingly picks up or accepts the trigger object, they are automatically transferred into the gem, without any possibility of resisting.\n The spell traps the body as well as the soul, although the trapped creature doesn't need to eat, drink or breathe, nor does it age. The creature is released  if  the  gem  is  broken,  and  powerful\n\nExtraplanar beings may be willing to negotiate a service in return for their freedom.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Mage)",
+    "duration": "Permanent",
+    "notes": "",
+    "swid": "soul-trap",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Summoning, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "GqAdJw5mZsDvkqLW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!GqAdJw5mZsDvkqLW"
+}

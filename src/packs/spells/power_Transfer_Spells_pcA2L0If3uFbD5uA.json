@@ -1,0 +1,60 @@
+{
+  "name": "Transfer Spells",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast and allows you to transfer up to three of your currently prepared Novice spells to another creature. The target creature must be sentient (i.e. not Mindless or animal-level intelligence) and have a Spirit of d6 or higher. Only spells belonging to the abjuration or divination schools can be transferred, or those belonging to the conjuration school if they have the Healing trapping.\n\n The target creature can cast the spells as if they had the same caster rank and spellcasting die as you, but you remain fully responsible to your deity for the way in which the spells are used.\n The maximum number of spells you can transfer to a particular target is determined by their rank: one Novice spell at Novice rank, two Novice spells at Seasoned rank, and three Novice spells at Veteran rank or above. You can never exceed this maximum even through multiple castings of this spell.\n The transferred spells count towards the total number of spells you can prepare each day; you cannot prepare new spells until the transferred spells have been discharged. Furthermore, you cannot prepare another spell to replace 'imbue with spell ability' until all of the transferred spells have been discharged. Dismissing this spell as a normal action frees all of the spell slots.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Priest and Magic Sphere)",
+    "duration": "Permanent until discharged, dismiss early as a normal action",
+    "notes": "",
+    "swid": "transfer-spells",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "pcA2L0If3uFbD5uA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!pcA2L0If3uFbD5uA"
+}

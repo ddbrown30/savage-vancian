@@ -1,0 +1,60 @@
+{
+  "name": "Ghostly Lights",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell conjures moving lights, which can either appear as a single humanoid shape, or as four smaller lights within a Small Burst Template. The light can move with Pace 20, but it cannot run, nor move beyond the range of the spell. The caster can choose the intensity of the light, ranging from a faint glow up to the brightness of a lantern.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Cantrip (Mage and Spellsinger)",
+    "duration": "1 minute per caster rank",
+    "notes": "",
+    "swid": "ghostly-lights",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Light, Perpetuate and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "dzno2vT0MkouPc1r",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!dzno2vT0MkouPc1r"
+}

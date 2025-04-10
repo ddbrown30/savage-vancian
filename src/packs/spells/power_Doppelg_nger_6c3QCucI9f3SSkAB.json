@@ -1,0 +1,60 @@
+{
+  "name": "Doppelg?nger",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and creates an inert clone of the target creature, which then grows over the next 6 months (reduced to 3 months on a raise). When the creature dies (or once the clone finishes growing if the creature is already dead) their soul is immediately transferred to the new body. The physical remains of the original body then become inert, and cannot be restored to life. If the creature dies of old age, or doesn't wish to be restored to life, the spell automatically fails. After being transferred to their new body, the creature permanently loses an advance.\n This spell requires special laboratory equipment (the focus) and supplies (the components). You must also have at least a cubic inch of flesh from the creature you wish to clone, and the new body will need to be maintained or preserved if it isn't used within a day or two, otherwise it begins to decompose.",
+    "source": "Savage Vancian Magic",
+    "range": "Adjacent",
+    "rank": "Heroic (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "doppelgnger",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "6c3QCucI9f3SSkAB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!6c3QCucI9f3SSkAB"
+}

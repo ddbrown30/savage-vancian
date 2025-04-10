@@ -1,0 +1,60 @@
+{
+  "name": "Grabbing Hand",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates a giant disembodied hand, which floats in the air between you and one specified creature, providing you with medium cover against all attacks made by that particular creature. You can assign the hand to protect against a different creature as a normal action.\n The hand is treated as a Wild Card with the same attributes and Toughness as you, except that its Fighting skill is equal to your spellcasting skill, it has Strength d12+4, and it is immune to pain modifiers. It can use the grappling maneuver (but not damage the victim on subsequent rounds) and push maneuver (with the +2 running bonus), but other than that it only moves; the hand automatically moves whenever you or your opponent move in order to remain between you, and it never provokes free attacks.\n The hand moves out of the way of your attacks (i.e., it doesn't provide cover to your opponent), but otherwise maintains its position between the two of you, even if your opponent moves around, turns invisible, or shapechanges into another form. Dispel magic can destroy the hand, but it is immune to most other magical effects that don't cause damage.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Heroic (Mage and Strength Sphere)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "grabbing-hand",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "aYcYnQqA4omPO5aY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!aYcYnQqA4omPO5aY"
+}

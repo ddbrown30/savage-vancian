@@ -1,0 +1,60 @@
+{
+  "name": "Sense Hidden Doors",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell reveals the presence of hidden or secret doors within a Large Cone Template. If you concentrate on a particular area as a full-round action (no movement allowed), you can also sense the number of hidden doors and their precise location (or direction, if outside your line of sight). If you continue concentrating, you can sense the mechanism or trigger for one specific door each round.",
+    "source": "Savage Vancian Magic",
+    "range": "Large Cone Template",
+    "rank": "Novice (Mage, Spellsinger and Knowledge Sphere)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "sense-hidden-doors",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Maintained",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "aysV4h4nRWe1uxAR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!aysV4h4nRWe1uxAR"
+}

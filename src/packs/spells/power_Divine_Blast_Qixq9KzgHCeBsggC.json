@@ -1,0 +1,60 @@
+{
+  "name": "Divine Blast",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell unleashes a fearsome blast of divine energy, targeting everyone within a Medium Burst Template; those who fail to resist with an opposed Spirit roll suffer 2d6 damage. The trapping of this spell (either Holy, Unholy, Lawful or Chaotic) is determined by the Sphere of magic used to cast this spell.\n Against creatures with the opposed ability type for the trapping (e.g., a Holy Divine Blast against a creature with the Unholy ability), the damage is increased to 2d8, and if you beat them with a raise they are also knocked Prone. Creatures with the same ability type as the trapping are immune to this spell.",
+    "source": "Savage Vancian Magic",
+    "range": "12/24/48",
+    "rank": "Seasoned (Chaos Sphere, Evil Sphere, Good Sphere and Law Sphere)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "divine-blast",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct, plus either Holy, Unholy, Lawful or Chaotic Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "Qixq9KzgHCeBsggC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!Qixq9KzgHCeBsggC"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Enchant Stones",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell enchants up to three small pebbles, which can then be thrown (range 3/6/12) or shot from a sling. The stones have no minimum Strength requirement and inflict Str+d6 damage, increased to Str+d8 against undead. They count as magical for the purposes of overcoming Physical Resistance.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Novice (Priest, Shaman, Spellwright and Earth Sphere)",
+    "duration": "30 minutes or until discharged",
+    "notes": "",
+    "swid": "enchant-stones",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "VWI7oNz1CUcCB6eW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!VWI7oNz1CUcCB6eW"
+}

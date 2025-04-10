@@ -1,0 +1,60 @@
+{
+  "name": "Spell Device, Improved",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires one minute to cast, and allows you to turn the target object into a temporary magic device with a single charge (or an elixir in the case of Alchemists). The object can contain any one Cantrip, Novice or Seasoned spell of your choice, selected from any spell list, but the spell must be chosen when Spell Device is cast.\n You must spend a benny and make a successful spellcasting roll to prepare the device; on a raise you get your benny back. You must also make another spellcasting roll to discharge the spell, resolved as if you were actually casting that spell. Alchemists must make both spellcasting rolls when creating their special elixir.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Spellwright)",
+    "duration": "3 hours per caster rank",
+    "notes": "",
+    "swid": "spell-device-improved",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "Bt0tZL7LQMUQBbnW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!Bt0tZL7LQMUQBbnW"
+}

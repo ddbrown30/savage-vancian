@@ -1,0 +1,60 @@
+{
+  "name": "Triggered Image",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates an illusion within an area the size of a Large Burst Template, which is set to activate when a specific event occurs. The illusion can also include sounds, smells, and changes to the temperature, and follows a script. Both the trigger condition (visual or audible only) and the script must be defined when the spell is cast, and the duration doesn't begin counting down until the illusion has been triggered.\n A visual trigger can be keyed to anything a regular person might see, and is fooled by disguises, illusions and magical darkness. An audible trigger can be keyed to general types of noise, a specific noise, or a spoken word, and can be fooled by stealth as well as magical silence. The trigger can\n\nonly respond to events within the range of the spell, and the events must also be within line of sight or hearing distance.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 4",
+    "rank": "Veteran (Mage and Spellsinger)",
+    "duration": "3 rounds per caster rank",
+    "notes": "",
+    "swid": "triggered-image",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "QwUH1CTqc2D5KoT9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!QwUH1CTqc2D5KoT9"
+}

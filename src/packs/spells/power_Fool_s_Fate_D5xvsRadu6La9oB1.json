@@ -1,0 +1,60 @@
+{
+  "name": "Fool's Fate",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets one living creature: roll 2d10 damage, adding a further +d6 damage if the spell is cast with a raise. If this would inflict enough wounds to Incapacitate the target, their Smarts is permanently reduced to d4-2, otherwise the spell has no effect on them (i.e., they are not Shaken and do not suffer wounds, they are either turned into a drooling idiot or nothing happens).\n If the target is capable of Soaking, they may attempt to reduce the number of wounds in order to resist this spell, however the Soak roll must be made with Spirit rather than Vigor.\n Creatures with Smarts d4-2 are considered unskilled at all Smarts-based skills, cannot use or benefit from any Edges that require Smarts, and cannot cast spells or communicate coherently. Only Heal, Limited Wish, Miracle, Restore Major Vitality or Wish can remove the effects of this spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Veteran (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "fools-fate",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "D5xvsRadu6La9oB1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!D5xvsRadu6La9oB1"
+}

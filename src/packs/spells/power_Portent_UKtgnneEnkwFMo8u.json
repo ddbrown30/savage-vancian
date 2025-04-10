@@ -1,0 +1,60 @@
+{
+  "name": "Portent",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires one minute to cast, and allows you to determine whether a particular course of action is likely to bring good or bad results for you within the next half hour. The four possible responses are 'good', 'bad', 'both good and bad', or 'nothing' (if the results are unlikely to be particularly good or bad).\n After you cast the spell, the GM should secretly roll a d6 (this die can Ace); if the result is higher than your spellcasting roll, the response is always 'nothing'. If you recast the spell for the same course of action, the result will always be the same as the first casting.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Novice (Priest)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "portent",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "UKtgnneEnkwFMo8u",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!UKtgnneEnkwFMo8u"
+}

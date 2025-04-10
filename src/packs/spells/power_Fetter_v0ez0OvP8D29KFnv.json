@@ -1,0 +1,60 @@
+{
+  "name": "Fetter",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires one minute to cast, and other spellcasters may assist you with Cooperative Rolls. You magically bind one living creature, who must remain within range for the entire casting time, and may attempt to resist with an opposed Spirit roll. You may choose one of the following types of fetter when you cast this spell, as long as you have the appropriate components:\n Chains: The target is chained to the spot for three years per caster rank, and the chains are imbued with a Repulsion spell that repels everyone except you.\n \nTorpor: The target falls into a deep sleep for three years per caster rank, however they don't need to eat or drink while bound, nor do they age. Optionally, you may also combine Torpor with Chains. This version of Fetter grants the target a\n+1 bonus to the opposed roll, or +2 when combined with Chains.\n Confinement: The target is transported to a specific location which must be prepared in advance, typically a building or room, and confined there forever. This version of Fetter grants the target a +2 bonus to the roll, or +3 if the location is particularly small (such as a single room or prison cell).\n Containment: The target is shrunk or turned incorporeal, and permanently bound into an object such as a gem or bottle. While bound the creature is rendered completely harmless, and doesn't need to eat, drink or breathe, nor does it age, however it is still aware of its surroundings. If you wish, you may grant the target the ability to manifest a face on the surface of the object and speak, however this doesn't allow it to cast spells or use any other abilities. This version of Fetter grants the target a\n+4 bonus to the roll.\n The Fetter cannot be dispelled, although it is still vulnerable to Anti-Magic Aura and Disjunct Magic. You may also choose to give the spell a release condition if you wish; this grants the target a -1 or -2 penalty to their roll, at the GM's discretion, depending on how likely it is to occur.\n The spell components must be tailored to the specific individual you wish to bind and the type of Fetter you wish to use.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Heroic (Mage)",
+    "duration": "Special",
+    "notes": "",
+    "swid": "fetter",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "v0ez0OvP8D29KFnv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!v0ez0OvP8D29KFnv"
+}

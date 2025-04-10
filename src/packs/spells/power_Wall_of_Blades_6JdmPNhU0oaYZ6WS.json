@@ -1,0 +1,60 @@
+{
+  "name": "Wall of Blades",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates an immobile wall of whirling blades of force, which are either arranged in a straight line 12\" long per caster rank, or in a ring with a maximum circumference the size of a Small, Medium or Large Burst Template at Veteran, Heroic or Legendary caster rank respectively. The wall is 4\" high, and anyone who moves through it suffers an automatic 2d6 damage.\n Any creatures standing where the wall springs up may attempt to evade with a standard Agility roll: on a failure they suffer 2d6 damage. Roll the damage again at the beginning of the caster's turn each round, except this time there is no Agility roll to evade.\n This spell provides medium cover against attacks made through it.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Veteran (Priest, Spellwright, Battle Sphere and Good Sphere)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "wall-of-blades",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "6JdmPNhU0oaYZ6WS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!6JdmPNhU0oaYZ6WS"
+}

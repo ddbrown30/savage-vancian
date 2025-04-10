@@ -1,0 +1,66 @@
+{
+  "name": "Arcane Lineage",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>The innate gift for magic runs strongly in your family, and you have learned how to unlock the deepest mysteries of your bloodline, granting you a powerful presence that few can ignore.\nYou know one extra spell of each rank, including Cantrips. These spells should all follow a common theme, depending on the nature of your heritage - for example if you're the descendant of a vampire, your extra spells would probably be necromantic, while a sorcerer with a red dragon ancestor would most likely gain fire-themed spells.\nCharacters with Arcane Lineage cannot take the Battle Sorcerer Edge; they are too focused on their inner mysteries.</p></div>",
+    "category": "Magic",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 0
+      },
+      {
+        "combinator": "and",
+        "label": "Charismatic",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      },
+      {
+        "combinator": "and",
+        "label": "Novice Sorcerer",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      },
+      {
+        "combinator": "and",
+        "selector": "knowledge-arcana",
+        "label": "Knowledge (Arcana)",
+        "type": "skill",
+        "value": 8
+      }
+    ],
+    "notes": "",
+    "swid": "arcane-lineage",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "CujnO0W7nTqgRNpW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!CujnO0W7nTqgRNpW"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Protection from Chaos",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell protects the target from Chaotic creatures. The target receives a +1 bonus when resisting opposed rolls, attacks against them are at -1, and they become immune to possession (although this doesn't expel a spirit that is already possessing them). Enchantment spells that allow control over the target are also suppressed (although not blocked or negated) for the duration of the spell. Finally, summoned creatures cannot touch the target or attack them using natural weapons, unless the target attacks them first. All of these spell effects only apply against creatures with the Chaotic ability.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Novice (Holy Champion, Mage, Priest and Law Sphere)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "protection-from-chaos",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Lawful, Deflection, Resistance and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "ZjcHlqwOk94IyLyg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!ZjcHlqwOk94IyLyg"
+}

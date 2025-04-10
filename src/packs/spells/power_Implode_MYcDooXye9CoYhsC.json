@@ -1,0 +1,60 @@
+{
+  "name": "Implode",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell grants you the ability to crush corporeal creatures, treated as a free action the round you cast the spell, and a normal action on subsequence rounds. Each time you use your ability you must select one corporeal creature within range, and they automatically suffer 2d10 damage. Because there is no attack roll, it is not possible to make a Called Shot or achieve a raise (with its +d6 damage bonus) on the attack. Any creature Incapacitated by this spell implodes, dying instantly.\n You can crush up to one creature per caster rank throughout the duration of the spell, although you cannot crush more than one creature per round, nor can you crush the same creature more than once per casting.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Legendary (Priest and Destruction Sphere)",
+    "duration": "1 round per caster rank",
+    "notes": "",
+    "swid": "implode",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Maintained, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "MYcDooXye9CoYhsC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!MYcDooXye9CoYhsC"
+}

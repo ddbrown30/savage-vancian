@@ -1,0 +1,60 @@
+{
+  "name": "Sense Thoughts",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell reveals the presence of thoughts within a Large Cone Template. If you concentrate on a particular area as a full-round action (no movement allowed), you can also sense the number of different minds and the Smarts of each; if the highest Smarts is d12+2 or higher (and at least 4 die steps higher than your own) you become Shaken and the spell ends. If you continue concentrating for a second full-round action you can also sense the surface thoughts of one specific mind in the area, unless the target succeeds at a standard Spirit roll.\n Note that Mindless creatures cannot be sensed with this spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Large Cone Template",
+    "rank": "Novice (Mage, Spellsinger and Knowledge Sphere)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "sense-thoughts",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental and Maintained",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "GTOJqw6d3NyQeBrc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!GTOJqw6d3NyQeBrc"
+}

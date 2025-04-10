@@ -1,0 +1,66 @@
+{
+  "name": "Celestial/Infernal Steed",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>You gain a loyal steed, who you can summon from the higher or lower realms once per day as a full- round action. The steed is a Wild Card warhorse or war pony with the Celestial or Infernal abilities (see the 'Extraplanar Minions' section), and it remains for up to 8 hours at a time, increased to 16 or 24 hours if you have Champion or Improved Champion respectively. You can also dismiss it at any time as a free action.\nIf your steed is killed, you must wait 1 month before you can summon a replacement, during which time you begin each session with 1 fewer benny. However any other wounds or fatigue are automatically removed from the steed each time it is summoned.</p></div>",
+    "category": "Professional",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 1
+      },
+      {
+        "combinator": "or",
+        "label": "Paladin",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      },
+      {
+        "combinator": "and",
+        "label": "Blackguard",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      },
+      {
+        "combinator": "and",
+        "selector": "riding",
+        "label": "Riding",
+        "type": "skill",
+        "value": 8
+      }
+    ],
+    "notes": "",
+    "swid": "celestialinfernal-steed",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "pu4ErtZLABXMYi5X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!pu4ErtZLABXMYi5X"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Treestaff",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires a full round action to cast, during which you plant your staff in the ground. The staff transforms into a huge tree-like creature at the end of your turn (use the same stats as a treant Extra, except it cannot speak or control trees); on a raise the creature can act immediately, otherwise it cannot act until your next turn.\n The staff used for this spell must be prepared with a special ritual, requiring a full lunar month, and can be reused for multiple castings. If the tree-like creature is incapacitated, it immediately reverts back to a staff, and you must roll its Vigor as normal to see if it survives; on a failure the staff is destroyed.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Heroic (Shaman)",
+    "duration": "3 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "treestaff",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "XOrFvOKacdj3JH8Y",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!XOrFvOKacdj3JH8Y"
+}

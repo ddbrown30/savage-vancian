@@ -1,0 +1,60 @@
+{
+  "name": "Analyze Aura",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><h2><span>Analyze Aura</span></h2><p><b>School:</b>  Divination</p><p><b>Casting:</b>  Gestures, incantation and focus (1,500 gp)</p><p> This spell allows you to examine one creature or object each round, discovering which spells have been cast upon them. In the case of magic items, you also learn how to activate them, what they do, and (if appropriate) how many charges they have remaining. This spell can be resisted with an opposed Spirit roll when cast on a creature or attended object, and automatically fails when cast on an artifact.\n</p></div>",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Veteran (Mage and Spellsinger)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "analyze-aura",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "cmWAyyL1i1FcbRpz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!cmWAyyL1i1FcbRpz"
+}

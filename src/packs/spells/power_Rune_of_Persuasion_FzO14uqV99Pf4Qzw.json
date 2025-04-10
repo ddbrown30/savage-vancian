@@ -1,0 +1,60 @@
+{
+  "name": "Rune of Persuasion",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and allows you to draw a rune of power onto any solid surface, as long as it is visible and legible at a distance of at least 12\". If the rune is concealed after the spell is cast, this prevents it from being activated (unless the act of concealing it triggers the activation, such as throwing a rug over a rune with a touch trigger). Specify one or more trigger conditions when you cast the spell, such as: glancing at the rune, examining the rune (which includes identifying it with Decipher Magic), touching the rune (including covering it with something), moving over or under the rune, pass through a doorway marked with the rune, etc. You may also define your own trigger conditions, and include exceptions such as pass\nphrases, specific people, etc.\n Regardless of its trigger conditions, the rune can only be activated by someone who is within 12\" of it, and it must be activated through their own actions; drawing the rune on a weapon and hitting someone with it will not activate a touch trigger, for example, they must reach out and touch it themselves. The duration doesn't begin counting down until the rune is activated.\n The rune glows when activated, and everyone within 12\" (including those who later move into range), must make a Spirit roll at -2, or at -4 if the spell was cast with a raise; on a failure their attitude towards you becomes Friendly for three\n\nhours per caster rank, or Helpful if they were already Friendly. This does not change their goals or allow you to control them, it just makes them view you in a favorable light. Each creature only needs to make a single Spirit roll no matter how long they remain within the area, however if they leave and then come back they must make another roll.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Veteran (Mage and Priest)",
+    "duration": "30 minutes per caster rank",
+    "notes": "",
+    "swid": "rune-of-persuasion",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Perpetuate and Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "FzO14uqV99Pf4Qzw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!FzO14uqV99Pf4Qzw"
+}

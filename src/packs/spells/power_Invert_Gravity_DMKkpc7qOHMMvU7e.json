@@ -1,0 +1,60 @@
+{
+  "name": "Invert Gravity",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets an area the size of a Small, Medium or Large Burst Template, inverting the gravity to a height of 6\", 4\" or 2\" respectively, chosen when the spell is cast. Everything within or entering the area immediately falls upwards; if something reaches the maximum height without hitting anything (like a ceiling), it floats in place until the spell ends, at which point it falls back down to the ground.\n Those within the area may attempt an Agility roll at -2 to secure themselves, but only if there is\n\nsomething to hold on to. Creatures capable of flight or levitation can prevent themselves from falling.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Heroic (Mage and Shaman)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "invert-gravity",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "DMKkpc7qOHMMvU7e",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!DMKkpc7qOHMMvU7e"
+}

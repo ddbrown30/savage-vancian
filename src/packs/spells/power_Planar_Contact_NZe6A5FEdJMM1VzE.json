@@ -1,0 +1,60 @@
+{
+  "name": "Planar Contact",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and allows you to contact a deity or other powerful being on another plane of existence, asking them up to one question per caster rank, or twice that number on a raise. You can ask one question each round, and receive a single-word answer to each question.\n The GM should secretly draw a card for each question; on Clubs, the deity doesn't know or refuses to answer the question; if the Clubs card is also a face card, the deity lies (or answers randomly).",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Veteran (Mage)",
+    "duration": "1 or 2 rounds per caster rank",
+    "notes": "",
+    "swid": "planar-contact",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Maintained",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "NZe6A5FEdJMM1VzE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!NZe6A5FEdJMM1VzE"
+}

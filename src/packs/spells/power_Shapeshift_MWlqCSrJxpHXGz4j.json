@@ -1,0 +1,60 @@
+{
+  "name": "Shapeshift",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell changes your physical form to that of another similar creature (i.e., a humanoid caster can assume another humanoid form) of the same size category. Replace your Pace, non-magical movement abilities (such as Flight, Aquatic or Burrow), natural armor and natural weapons with those of the new form, but other abilities (such as senses) and traits do not change.\n You may choose your height, weight and general appearance from the normal ranges for your new form, but cannot imitate a specific individual. Any equipment you're wearing that cannot be worn by the new form melds into your body (and becomes non-functional) for the duration of the spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Novice (Mage, Nightblade and Spellsinger)",
+    "duration": "30 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "shapeshift",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "MWlqCSrJxpHXGz4j",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!MWlqCSrJxpHXGz4j"
+}

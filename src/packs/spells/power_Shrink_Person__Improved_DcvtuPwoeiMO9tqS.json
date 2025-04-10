@@ -1,0 +1,60 @@
+{
+  "name": "Shrink Person, Improved",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires a full round to cast, and decreases the size of up to three humanoid creatures per caster rank, who may attempt to resist with an opposed Vigor roll if they wish. Each creature's Strength decreases by 2 die steps (becoming a fixed penalty if this would take their Strength below d4) and their Toughness is reduced by 2, but they gain a +1 bonus to all attacks, and attacks against them receive a -1 penalty to hit. If cast with a raise, these modifiers may be doubled if the caster wishes. Any equipment the creatures are carrying is also reduced for the duration of the spell, or until it leaves their person.\n This spell does not stack with other spells or magical effects that reduce size.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Seasoned (Mage)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "shrink-person-improved",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "DcvtuPwoeiMO9tqS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!DcvtuPwoeiMO9tqS"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Metal Body",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell transforms your body into living metal. You gain Physical Resistance, suffering -3 damage from physical attacks except those caused by adamantine weapons, you become immune to electricity, blindness, deafness, disease and poison, and no longer need to breathe. You suffer half damage from fire and acid, but can now be harmed by rust attacks. Your Strength increases by +2 die steps, but your Agility is reduced by 2 die steps, and your Pace is halved.\n You are treated as if you were wearing 4 points of armor for the purposes of Arcane Spell Failure, and your unarmed attacks count as Str+d4 natural weapons. You longer benefit from potions or elixirs (as you cannot drink), your weight increases by ten times, and you no longer float (or swim).",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Heroic (Mage and Earth Sphere)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "metal-body",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Enhancement",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "YUb01Qw9jksSwkNB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!YUb01Qw9jksSwkNB"
+}

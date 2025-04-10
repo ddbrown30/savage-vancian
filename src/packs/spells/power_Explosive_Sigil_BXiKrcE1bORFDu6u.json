@@ -1,0 +1,60 @@
+{
+  "name": "Explosive Sigil",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell allows you to place a mystic sigil upon a book, map, scroll, or similar object containing writing and weighing no more than ten pounds. This sigil detonates when the object is read, filling an area the size of a Small Burst Template centered\n\non the object. Creatures within the area may attempt to dive out of the way with an Agility roll at -2 (or at -4 if they are directly next to the sigil, which is usually the case for someone reading the object); those who fail their Agility roll suffer 2d8 damage. The object itself automatically suffers the damage, but no other inanimate objects are damaged by the explosion.\n You and those you specify can read the protected writing without triggering the sigil. You may also remove the sigil whenever you wish. Dispel Magic and Efface Writing can also remove the sigil, but if the object successfully resists the Dispel Magic, or the Efface Writing fails to achieve a raise, the sigil detonates.\n Anyone examining the object for traps only spots the Explosive Sigil on a raise. If someone is caught within the area of multiple exploding sigils, the effects don't overlap; they only need to make a single Agility roll, and only suffer the damage once if they fail.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Mage)",
+    "duration": "Permanent until discharged, dismiss early as a normal action",
+    "notes": "",
+    "swid": "explosive-sigil",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Force and Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "BXiKrcE1bORFDu6u",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!BXiKrcE1bORFDu6u"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Tree Step",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell allows you to enter a living tree, which must be at least a little bigger than you. Once within the tree you may teleport to other trees of\n\nthe same type: this ability can be used a number of times equal to your caster rank, and requires a full round action.\n The maximum distance you can teleport depends on the type of tree you're using. Oak, ash and yew allow you to teleport up to 500\", elm and linden allow you to teleport up to 400\", other deciduous trees allow you to teleport up to 300\", coniferous trees allow you to teleport up to 200\", and all other trees allow you to teleport up to 100\".\n If a tree is destroyed while you're in it, you are immediately ejected and suffer 3d6 damage.\n You may leave your current tree at any time as a free action, immediately ending the spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Seasoned (Warden) or Veteran (Shaman)",
+    "duration": "3 hours per caster rank",
+    "notes": "",
+    "swid": "tree-step",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "wOErU8c6gYkEfOk7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!wOErU8c6gYkEfOk7"
+}

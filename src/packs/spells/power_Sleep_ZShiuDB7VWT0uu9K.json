@@ -1,0 +1,60 @@
+{
+  "name": "Sleep",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell targets up to two living creatures within a Small Burst Template, increased to four creatures on a raise; those who fail a standard TN 4 Spirit roll (at -2 if the spell is cast with a raise) immediately fall asleep. Sleeping creatures will fall Prone (without waking up) unless somehow supported, are considered \"inactive guards\" for the purposes of Stealth checks, and suffer a -2 situational penalty to all Notice rolls.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Novice (Mage, Nightblade and Spellsinger)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "sleep",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "ZShiuDB7VWT0uu9K",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!ZShiuDB7VWT0uu9K"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Triggered Spell",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and allows you to place another spell upon yourself, along with a trigger condition which indicates when that other spell should take effect. The other spell must be cast as your next action, it must be a spell that targets (or can target) the caster, and its rank must be lower than your caster rank and no higher than Veteran.\n The spellcasting roll for the other spell is not made until it is triggered, however the spell is cast on a subconscious level and may therefore ignore all penalties due to wounds and Fatigue.\n The trigger condition must be clear, and the spell is automatically and immediately cast when the condition is met, targeting you and nobody else.\n You can only benefit from one Triggered Spell at a time; if you cast it a second time the earlier version is automatically dispelled. The spell focus must be carried on your person for the Triggered Spell to work.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Veteran (Mage)",
+    "duration": "3 days per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "triggered-spell",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "FQ6QxyDMPrlu0Z8C",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!FQ6QxyDMPrlu0Z8C"
+}

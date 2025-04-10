@@ -1,0 +1,59 @@
+{
+  "name": "Enchant Staff",
+  "type": "edge",
+  "folder": "TI1rMT9Gu5EIzGqb",
+  "img": "systems/swade/assets/icons/edge.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><p>This Edge allows you to enchant staffs, imbuing them with multiple spells; the spells of each staff should usually follow a specific theme (such as fire, charming, divination, etc.). A staff must be readied in the same way as a weapon before it can be used.\nMinor staffs cost 15,000 gp, and contain a number of spells equal to quarter of your Smarts (rounded up). Their spells cannot exceed Seasoned rank, and are never Cantrips.\nModerate staffs cost 30,000 gp, and contain a number of spells equal to half of your Smarts. Their spells cannot exceed Veteran rank.\nMajor staffs cost 60,000 gp and contain a number of spells equal to your Smarts. Their spells cannot exceed Heroic rank.\nAt least half of the spells in a staff must be Novice rank, and there cannot be more Heroic spells than Veteran, or more Veteran spells than Seasoned.\nCasting a spell from a staff is resolved in the same way as casting the spell normally, except that it uses Smarts instead of the spellcasting skill if the spell isn't on your spell list. This expends a number of charges equal to the rank of the spell.\nEach staff has a maximum of 10 charges, but is empty when first created, and must be charged.\nYou can charge (or recharge) a staff by casting spells directly into it. This requires casting one of the spells it contains directly at the staff with the deliberate intent of recharging it; the staff gains a number of charges equal to the rank of the spell you just cast.</p></div>",
+    "category": "Enchantment",
+    "source": "Savage Vancian Magic",
+    "requirements": [
+      {
+        "combinator": "and",
+        "selector": "",
+        "type": "rank",
+        "value": 3
+      },
+      {
+        "combinator": "and",
+        "label": "any Heroic Spellcaster Edge",
+        "type": "other",
+        "selector": "",
+        "value": ""
+      },
+      {
+        "combinator": "and",
+        "selector": "knowledge-arcana",
+        "label": "Knowledge (Arcana)",
+        "type": "skill",
+        "value": 8
+      }
+    ],
+    "notes": "",
+    "swid": "enchant-staff",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "isArcaneBackground": false
+  },
+  "_id": "rCHe2loWG1eNFLLU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776965,
+    "modifiedTime": 1744155776965,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!rCHe2loWG1eNFLLU"
+}

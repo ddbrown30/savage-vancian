@@ -1,0 +1,60 @@
+{
+  "name": "Summon Insects",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell summons one locust swarm per caster rank, all of which can be placed anywhere within range, however each must be placed next to at least one other swarm without overlapping. Any creatures within an area where a swarm is summoned may attempt to leap out of the way with an opposed Agility roll.\n When the swarms are summoned they immediately attack everyone within their area. On subsequent turns the swarms draw their own initiative card, and will automatically attack everyone they cover, even you. You have no control over the swarms, and they do not move from the location where they were summoned.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 4",
+    "rank": "Veteran (Priest and Shaman)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "summon-insects",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Summoning and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "l9YJM7pF4WMFslao",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!l9YJM7pF4WMFslao"
+}

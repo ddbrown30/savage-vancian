@@ -1,0 +1,60 @@
+{
+  "name": "Memory Manipulation",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires a full round to cast, and targets one living creature: roll 2d8 damage, adding a further +d6 damage if the spell is cast with a raise. If this would inflict enough wounds to Incapacitate the target, you are able to reach into their mind and change their memories, otherwise the spell has no effect on them (i.e., they are not Shaken and do not suffer wounds, either you change their memories or nothing happens).\n If the target is capable of Soaking, they may attempt to reduce the number of wounds in order to resist the spell, however the Soak roll must be made with Spirit rather than Vigor.\n\n You can use this spell to add, alter, sharpen or remove up to one minute of the target's memory per caster rank, or twice that number on a raise. This cannot undo the effects of other spells (such as Geis).",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Seasoned (Nightblade and Spellsinger)",
+    "duration": "Permanent",
+    "notes": "",
+    "swid": "memory-manipulation",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Mental, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "J38xwgZhB19ZpVpK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!J38xwgZhB19ZpVpK"
+}

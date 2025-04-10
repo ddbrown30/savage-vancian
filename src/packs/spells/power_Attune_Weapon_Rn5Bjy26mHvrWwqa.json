@@ -1,0 +1,60 @@
+{
+  "name": "Attune Weapon",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "<div class=\"swpf-core\"><h2><span>Attune Weapon</span></h2><p><b>School:</b>  Transmutation</p><p><b>Casting:</b>  Gestures, incantation and focus </p><p> This spell makes one weapon Holy, Unholy, Lawful or Chaotic, as chosen by the caster. The spell cannot be cast on a natural weapon, and has no effect on a weapon that is already either Holy, Unholy, Lawful or Chaotic.\n</p></div>",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Novice (Priest and Spellwright)",
+    "duration": "3 minutes per caster rank",
+    "notes": "",
+    "swid": "attune-weapon",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "Rn5Bjy26mHvrWwqa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!Rn5Bjy26mHvrWwqa"
+}

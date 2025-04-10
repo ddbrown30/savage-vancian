@@ -1,0 +1,60 @@
+{
+  "name": "Illusionary Page",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and disguises the contents of a page, making it appear however you wish. You must specify a command word when the spell is cast: speaking the command word reveals the true contents of the page, and you can restore it to its illusionary appearance at all; speaking the command word twice in rapid succession removes the spell completely.\n Sense Magic reveals a faint aura, and Truesight reveals the presence of hidden material, but the combination of Empathic Comprehension and Truesight is required to reveal the contents of the page. Dispel Magic can also remove the spell, while Efface Writing destroys the original contents of the page.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Seasoned (Mage and Spellsinger)",
+    "duration": "Permanent",
+    "notes": "",
+    "swid": "illusionary-page",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "n204cTG4YVk0Di7m",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!n204cTG4YVk0Di7m"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Edges",
+  "type": "Item",
+  "_id": "TI1rMT9Gu5EIzGqb",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155776941,
+    "modifiedTime": 1744155777064,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!folders!TI1rMT9Gu5EIzGqb"
+}

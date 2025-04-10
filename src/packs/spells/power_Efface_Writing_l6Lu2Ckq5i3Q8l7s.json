@@ -1,0 +1,60 @@
+{
+  "name": "Efface Writing",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell automatically removes all non-magical writing from a single scroll, or from one or two pages of paper, parchment, or similar material. If someone else is holding the object when you cast the spell, they may attempt to resist with an opposed Spirit roll.\n If you touch the writing and get a raise on the spellcasting roll, you can also remove Arcane Signatures, Explosive Sigils, Serpent Sigils, and Warding Sigils. You cannot use this spell to remove Illusionary Writing or Rune spells.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Novice (Mage and Spellsinger)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "efface-writing",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "l6Lu2Ckq5i3Q8l7s",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!l6Lu2Ckq5i3Q8l7s"
+}

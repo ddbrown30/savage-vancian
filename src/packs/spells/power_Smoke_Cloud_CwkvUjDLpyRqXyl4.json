@@ -1,0 +1,60 @@
+{
+  "name": "Smoke Cloud",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell fills a Medium Burst Template with a cloud of swirling smoke and hot embers. There is a -6 penalty for attacking someone within the cloud, although the penalty is reduced to -2 if they are adjacent. When first cast, and at the beginning of your turn on each subsequent round, the cloud moves 2\" directly away from where you were when you cast the spell; everyone the cloud covers or moves over must make an Agility roll (at -2 if cast with a raise) to dive out of the way or suffer 2d8 damage.\n As a normal action you can concentrate on speeding up the cloud, moving it up to 12\" instead of 2\". The cloud dissipates when it moves beyond the maximum range.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 2",
+    "rank": "Heroic (Mage and Fire Sphere)",
+    "duration": "3 rounds per caster rank",
+    "notes": "",
+    "swid": "smoke-cloud",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Fire, Creation, Obscurement and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "CwkvUjDLpyRqXyl4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!CwkvUjDLpyRqXyl4"
+}

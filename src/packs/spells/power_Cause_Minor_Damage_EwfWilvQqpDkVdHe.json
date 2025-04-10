@@ -1,0 +1,60 @@
+{
+  "name": "Cause Minor Damage",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "Artificers can only cast this spell on constructs. This is treated as a touch attack (i.e., if successfully cast, add +2 to the result and compare against the target's Parry to see if you hit): if you hit, the construct suffers 2d4 damage.\n Alchemists prepare this spell as a vial containing an explosive concoction. The vial can be thrown with a range of 6/12/24, exploding on impact and filling an area the size of a Small Burst Template. Those within the area can attempt to evade with an Agility roll at -2, on a failure they suffer 2d4 damage.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Cantrip (Spellwright)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "cause-minor-damage",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Direct",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "EwfWilvQqpDkVdHe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!EwfWilvQqpDkVdHe"
+}

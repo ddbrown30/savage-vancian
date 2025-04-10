@@ -1,0 +1,22 @@
+{
+  "name": "Spells",
+  "type": "Item",
+  "_id": "puIw6OOQC1p8n30u",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785842,
+    "modifiedTime": 1744155786425,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!folders!puIw6OOQC1p8n30u"
+}

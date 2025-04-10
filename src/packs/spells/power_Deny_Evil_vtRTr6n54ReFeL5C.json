@@ -1,0 +1,60 @@
+{
+  "name": "Deny Evil",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates a shimmering field around you. All attacks made against you from Unholy creatures or spells suffer a -2 penalty to hit. Furthermore, you may attempt to banish Extraplanar Unholy creatures by making a touch attack; a successful attack roll causes the target to become Shaken, while each raise inflicts one wound, and if this incapacitates the target they are immediately banished back to their home plane.\n Alternatively you may use this spell to dispel any Enchantment spell cast by an Unholy creature, or any spell with an Unholy trapping. This option requires a successful touch attack, and automatically dispels the chosen spell, as long as it can normally be dispelled by Dispel Magic. Using this last option immediately ends the spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Self or Touch",
+    "rank": "Seasoned (Holy Champion) or Veteran(Priest and Good Sphere)",
+    "duration": "3 rounds per caster rank, or Instant",
+    "notes": "",
+    "swid": "deny-evil",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Holy and Deflection",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "vtRTr6n54ReFeL5C",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!vtRTr6n54ReFeL5C"
+}

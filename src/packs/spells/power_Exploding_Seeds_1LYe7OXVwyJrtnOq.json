@@ -1,0 +1,60 @@
+{
+  "name": "Exploding Seeds",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell must be cast on a handful of seeds, and it imbues up to two per caster rank with fiery magic. As a normal action you can cause all of your seeds within 36\" to explode, each covering an area the size of a Small Burst Template; those within the area can attempt to evade with an Agility roll at -2, on a failure they suffer 2d6 damage. If someone is caught within the area of multiple exploding seeds, the effects don't overlap; they only need to make a single Agility roll, and only suffer the damage once if they fail.\n Alternatively you can focus the magic, imbuing up to one seed per caster rank with fiery magic. These seeds can be thrown with a range of 6/12/24, and explode on impact; those within the area of effect may attempt to evade with an Agility roll at -2, on a failure they suffer 2d6 damage. You cannot cause these seeds to explode except by throwing them.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Veteran (Shaman, Fire Sphere and Sun Sphere)",
+    "duration": "30 minutes per caster rank",
+    "notes": "",
+    "swid": "exploding-seeds",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Fire and Creation",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "1LYe7OXVwyJrtnOq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!1LYe7OXVwyJrtnOq"
+}

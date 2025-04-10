@@ -1,0 +1,60 @@
+{
+  "name": "Hidden Chest",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and allows you to hide a specially prepared chest by transporting it to the ethereal plane. The chest is physically about 3x2x2 feet in size, and costs at least 5,000 gp to construct. It can be fitted with locks, wards, etc., just like any other normal chest.\n If any living creatures are inside the chest, you suffer a -4 penalty to your spellcasting roll. Creatures inside the chest must still eat, drink and breathe as normal, and cannot usually survive for long without additional precautions.\n The spell requires a tiny replica of the chest as a spell focus, and the replica is also required to recall the large chest - if it is destroyed, the large chest is lost forever (not even a Wish can bring it back). If the large chest is not recalled before the duration expires, it is irretrievably lost.\n You cannot have more than one than one Hidden Chest at any one time.",
+    "source": "Savage Vancian Magic",
+    "range": "Touch",
+    "rank": "Veteran (Mage)",
+    "duration": "1 month per caster rank",
+    "notes": "",
+    "swid": "hidden-chest",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Summoning",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "yIscwmwWQ07JlA57",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!yIscwmwWQ07JlA57"
+}

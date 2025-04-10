@@ -1,0 +1,60 @@
+{
+  "name": "Fireball",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell shoots a tiny bead of swirling orange and yellow energy towards a targeted point in space, whereupon it blossoms into a huge ball of fire; this explosion creates almost no pressure. If the bead strikes something solid before reaching its destination, it will explode on impact.\n The explosion targets everyone within a Medium Burst Template; those who fail to evade with an opposed Agility roll suffer 2d6 damage. Roll for flammable targets to see if they catch fire.",
+    "source": "Savage Vancian Magic",
+    "range": "24/48/96",
+    "rank": "Seasoned (Mage)",
+    "duration": "Instant",
+    "notes": "",
+    "swid": "fireball",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Fire, Direct and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "ffNo4YbVWpUlblF6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!ffNo4YbVWpUlblF6"
+}

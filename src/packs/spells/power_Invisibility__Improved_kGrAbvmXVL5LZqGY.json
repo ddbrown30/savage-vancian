@@ -1,0 +1,60 @@
+{
+  "name": "Invisibility, Improved",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell renders any number of targets within range invisible, as long as each of them remains within 30\" of at least one other recipient of the spell; Attacks and Notice rolls against invisible creatures are made with a -4 penalty. If a recipient moves more than 30\" away from the nearest group member, the spell ends for them. If any recipient makes a directly offensive action, the spell ends for everyone. Inanimate objects can also be targeted as long as they don't weigh more than 300 pounds\n\nper caster rank. Note that the recipients of this spell are also invisible to each other.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts x 4",
+    "rank": "Heroic (Mage)",
+    "duration": "3 minutes per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "invisibility-improved",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Obscurement, Direct, Beneficial and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "kGrAbvmXVL5LZqGY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!kGrAbvmXVL5LZqGY"
+}

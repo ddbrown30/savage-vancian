@@ -1,0 +1,60 @@
+{
+  "name": "Deny Chaos",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell creates a shimmering field around you. All attacks made against you from Chaotic creatures or spells suffer a -2 penalty to hit. Furthermore, you may attempt to banish Extraplanar Chaotic creatures by making a touch attack; a successful attack roll causes the target to become Shaken, while each raise inflicts one wound, and if this incapacitates the target they are immediately banished back to their home plane.\n Alternatively you may use this spell to dispel any Enchantment spell cast by a Chaotic creature, or any spell with a Chaotic trapping. This option requires a successful touch attack, and automatically dispels the chosen spell, as long as it can normally be dispelled by Dispel Magic. Using this last option immediately ends the spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Self or Touch",
+    "rank": "Seasoned (Holy Champion) or Veteran (Priest and Law Sphere)",
+    "duration": "3 rounds per caster rank, or Instant",
+    "notes": "",
+    "swid": "deny-chaos",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Lawful and Deflection",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "cjBfFYpRffjJNP8k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!cjBfFYpRffjJNP8k"
+}

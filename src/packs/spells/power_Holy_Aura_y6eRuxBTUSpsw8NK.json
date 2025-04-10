@@ -1,0 +1,60 @@
+{
+  "name": "Holy Aura",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell affects you and any number of other creatures you wish to affect within a Medium Burst Template centered on you, providing protecting against unholy creatures and spells.\n Affected creatures become immune to possession (although this doesn't expel a spirit that is already possessing them), and Enchantment spells that allow control over the creature are suppressed (although not blocked or negated) for the duration of the spell. These benefits apply as long as the attacker has the Unholy ability or uses a spell with an Unholy trapping.\n Attackers with the Unholy ability also suffer a -2 penalty to hit the affected creatures, and inflict -2 damage  against  them.  They  also  suffer  an\n\nautomatic 2d4 damage if they attack an affected creature while adjacent to them.\n Finally, the affected creatures gain +4 Magic Resistance against spells with a Unholy trapping, or which are cast by creatures with the Unholy ability.",
+    "source": "Savage Vancian Magic",
+    "range": "Self",
+    "rank": "Heroic (Priest and Good Sphere)",
+    "duration": "3 rounds per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "holy-aura",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Holy, Enhancement, Direct and Beneficial",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "y6eRuxBTUSpsw8NK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!y6eRuxBTUSpsw8NK"
+}

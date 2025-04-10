@@ -1,0 +1,60 @@
+{
+  "name": "Secure Lodge",
+  "type": "power",
+  "folder": "puIw6OOQC1p8n30u",
+  "img": "systems/swade/assets/icons/power.svg",
+  "system": {
+    "description": "This spell requires ten minutes to cast, and conjures a small lodge complete with a sturdy door, two shuttered windows, and a chimney, all of which are protected by Alarm Wards. The door and shutters are further protected by Secure Locks, while the narrow chimney has an iron grate at the top. The lodge appears to be made from materials common to the area where the spell was cast, but has the resilience of a stone building.\n Inside the lodge is a small fireplace, a trestle table, a writing desk, eight bunk beds and eight stools. An Invisible Servant is also conjured to provide service for the duration of the spell.",
+    "source": "Savage Vancian Magic",
+    "range": "Smarts",
+    "rank": "Seasoned (Mage and Spellsinger)",
+    "duration": "6 hours per caster rank, dismiss early as a normal action",
+    "notes": "",
+    "swid": "secure-lodge",
+    "additionalStats": {},
+    "choiceSets": [],
+    "actions": {
+      "trait": "",
+      "traitMod": "",
+      "dmgMod": "",
+      "additional": {}
+    },
+    "bonusDamageDie": 6,
+    "bonusDamageDice": 1,
+    "activities": [],
+    "favorite": false,
+    "templates": {
+      "cone": false,
+      "stream": false,
+      "small": false,
+      "medium": false,
+      "large": false
+    },
+    "pp": 0,
+    "damage": "",
+    "trapping": "Creation and Ranged",
+    "arcane": "",
+    "ap": 0,
+    "innate": false,
+    "modifiers": []
+  },
+  "_id": "TgVMg5GgfhstW7pf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "26zedh1nuCLjFH0V": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "swade",
+    "systemVersion": "4.4.2",
+    "createdTime": 1744155785944,
+    "modifiedTime": 1744155785944,
+    "lastModifiedBy": "26zedh1nuCLjFH0V"
+  },
+  "_key": "!items!TgVMg5GgfhstW7pf"
+}
